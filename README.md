@@ -19,7 +19,7 @@
 ### 📫 How to reach me
 
 
-- [Instagram](max_jdev)
+- [Instagram](https://www.instagram.com/Maxym.Denysov/)
 - [Telegram](Java_doctor)
 
 - You can also send me an [email](markes_only@Gmail.com)
