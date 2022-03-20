@@ -6,6 +6,7 @@
 ## Nice to met you. 👋
                                                                                       
 <div id="badges">
+
                               
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,6 +16,14 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+## 📫 How to reach me
+
+
+- 🐦 [Instagram](max_jdev)
+- 💬 [Telegram](Java_doctor)
+- 📹 
+- 📧 You can also send me an [email](markes_only@Gmail.com)
+            
                                                                                                                                 
 ### :man_technologist: About Me :
                                                                                                                                 
