@@ -67,7 +67,7 @@ I am a junior java developer and student at Alfred Nobel University.
                                                                                                                                                
 - : Design patters.
                                                                                                                                                
-- : OOP | CRUD | SOLID| MVC | .
+- : OOP | CRUD | SOLID| MVC | GRASP |.
 
 - : Have expirience in PC assembly | Know PC components and their architecture.
                                                                                                                                 
