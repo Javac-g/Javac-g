@@ -15,15 +15,15 @@
   <a href="https://www.facebook.com/maks.markes">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+<a href="https://www.instagram.com/Maxym.Denysov/">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 📫 How to reach me
                                                                                                                                 
 - :telephone_receiver: +380970320985
 
-- [Instagram](https://www.instagram.com/Maxym.Denysov/)
-- [Telegram](Java_doctor)
-
-- You can also send me an [email](markes_only@Gmail.com)
+- You can also send me an Email Denysov.Maxym@gmail.com
             
                                                                                                                                 
 ### :man_technologist: About Me :
