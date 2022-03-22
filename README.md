@@ -18,9 +18,7 @@
 <a href="https://www.instagram.com/Maxym.Denysov/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-<a href="https://www.instagram.com/Maxym.Denysov/">
-    <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+
 </div>
 📫 How to reach me
                                                                                                                                 
