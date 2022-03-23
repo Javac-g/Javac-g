@@ -26,7 +26,9 @@
 
 - You can also send me an Email Denysov.Maxym@gmail.com
             
-                                                                                                                                
+ 
+
+                                                                                                                         
 ### :man_technologist: About Me :
                                                                                                                                 
 I am a junior java developer and student at Alfred Nobel University.
