@@ -57,7 +57,7 @@ I am a junior java developer and student at Alfred Nobel University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>    
                                                                                                                                                
-- : Java core | Async | Multithreading | Streams | Native | .
+- : Java core | Async | Multithreading | Streams | Native |  .
                                                                                                                                         
 - : Collections.
                                                                                                                                                
