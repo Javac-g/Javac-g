@@ -20,7 +20,7 @@
   </a>
 
 </div>
-📫 How to reach me
+📫 How to reach me:
                                                                                                                                 
 - :telephone_receiver: +380970320985
 
