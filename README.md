@@ -1,6 +1,6 @@
 
 <div id="header" >
-  <img src=https://github.com/Maxym-Denysov/Maxym-Denysov/blob/main/LOGO.png?raw=true"/>
+  <img src=https://github.com/Javac-g/Javac-g/blob/main/LOGO.png?raw=true"/>
 </div>
                                                                                       
 ## Nice to met you. 👋
@@ -76,11 +76,11 @@ I am a junior java developer and student at Alfred Nobel University.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maxym-Denysov&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Javac-g&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
                                                                                                                                                
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxym-Denysov&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxym-Denysov&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxym-Denysov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Javac-g&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
