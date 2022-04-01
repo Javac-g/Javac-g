@@ -83,3 +83,4 @@ I am a junior java developer and student at Alfred Nobel University.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxym-Denysov&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
