@@ -3,7 +3,7 @@
   <img src=https://github.com/Javac-g/Javac-g/blob/main/LOGO.png?raw=true"/>
 </div>
                                                                                       
-## Nice to met you. 👋 
+## Nice to met you. 👋 ..
                                                                                       
 <div id="badges">
 
