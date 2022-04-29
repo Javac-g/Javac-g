@@ -22,7 +22,7 @@
 </div>
 📫 How to reach me:
                                                                                                                                 
-- :telephone_receiver: +380970320985 .
+- :telephone_receiver: +380970320985 
 
 - You can also send me an Email Denysov.Maxym@gmail.com
             
