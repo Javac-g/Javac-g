@@ -37,8 +37,7 @@ I am a junior java developer and student at Alfred Nobel University.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Codewars and read tech books.
-
+- :zap: In my free time, I solve problems on Codewars or read tech books and practice using Arduino and Raspberry Pi in IOT projects.
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
