@@ -31,7 +31,7 @@
                                                                                                                          
 ### :man_technologist: About Me :
                                                                                                                                 
-I am  High-quality oriented, self-motivated and proactive Frontend developer, able to manage own time and work in a multitask mode. Have strong capacity to gain knowledge as well as to learn the new professional tools and technologies on the most efficient level.
+I am  High-quality oriented, self-motivated and proactive Backend developer, able to manage own time and work in a multitask mode. Have strong capacity to gain knowledge as well as to learn the new professional tools and technologies on the most efficient level.
                                                                                                                                 
 - :telescope: I’m study  building web applications.
 
