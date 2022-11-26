@@ -56,7 +56,7 @@ I am  High-quality oriented, self-motivated and proactive Backend developer, abl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>    
                                                                                                                                                
-- : Java SE [8,11,17] & Java EE.
+- : Java SE [8,11,17].
                                                                                                                                                
 - : Java Socket.
 
