@@ -94,11 +94,7 @@ I am  High-quality oriented, self-motivated and proactive Backend developer, abl
 - : JUnit,
 - : Mockito,
 - : Argumentcaptor,
-- : Postman                                                                                                                                               
-
-                                                                                                                                               
- 
-
+- : Postman                                                                                                                                      
 - : Have expirience in PC assembly | Know PC components and their architecture.
                                                                                                                                 
 ---
