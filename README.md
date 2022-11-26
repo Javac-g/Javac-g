@@ -4,6 +4,7 @@
 </div>
                                                                                       
 ## ${\color{lightgreen}Nice \space to \space meet \space you.👋}$ 
+                                                                          $${\color{red}Red}$$
                                                                                       
 <div id="badges">
 
