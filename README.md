@@ -56,19 +56,79 @@ I am  High-quality oriented, self-motivated and proactive Backend developer, abl
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>    
                                                                                                                                                
-- : Java core | Async | Multithreading | Streams | Native |  .
-                                                                                                                                        
-- : Collections.
+- : Java SE [8,11,17] & Java EE.
                                                                                                                                                
-- : Spring Framework.
-                                                                                                                                               
-- : Hibernate | JPA | .
+- : Java Socket.
+
+- : Servlets.
+
+- : Spring MVC.
+
+- : Spring Boot.
+
+- : Spring Data.
+
+- : Spring Security, oauth, JWT.
+
+- : REST api.
+
+- : JPA.
+
+- : Hibernate.
+
+- : ORM.
                                                                                                                                                
 - : Docker.
                                                                                                                                                
-- : Design patters.
+- : Maven & Gradle
                                                                                                                                                
+- : Git & Github, Gitlab.
+
+- : AWS Cloud Development.
+                                                                                                                                               
+- : Design patters.
+
 - : OOP | CRUD | SOLID| MVC | GRASP |.
+
+### Have commo knowledge:
+- : Groovy                                                                                                                                       
+                                                                                                                                               
+- : Scala
+
+- : Rubi
+
+- : Kotlin
+
+- : C , C++
+
+- : python
+                                                                                                                                               
+### Databases in use :
+
+- : PostgreSQL,
+
+- : MySQL, 
+
+- : H2,
+
+- : MariaDB,
+
+- : Oracle ,
+
+- : MYSQL 
+                                                                                                                                               
+### Testing with:
+
+- : JUnit,
+
+- : Mockito,
+
+- : Argumentcaptor,
+
+- : Postman                                                                                                                                               
+
+                                                                                                                                               
+ 
 
 - : Have expirience in PC assembly | Know PC components and their architecture.
                                                                                                                                 
