@@ -3,8 +3,7 @@
   <img src=https://github.com/Javac-g/Javac-g/blob/main/LOGO.png?raw=true"/>
 </div>
                                                                                       
-## ${\color{lightgreen}Nice \space to \space meet \space you.👋}$ 
-                                                                          $${\color{red}Red}$$
+## $${\color{lightgreen}Nice \space to \space meet \space you.👋}$$
                                                                                       
 <div id="badges">
 
