@@ -19,7 +19,7 @@
 ## 📫 How to Reach Me:
 
 - 📞 Phone: +380970320985
-- 📧 Email: [Denysov.Maxym@gmail.com](mailto:Denysov.Maxym@gmail.com)
+- 📧 Email: [denysov.maxym@gmail.com](mailto:denysov.maxym@gmail.com)
 
 ## :man_technologist: About Me:
 
