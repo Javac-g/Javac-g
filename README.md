@@ -75,6 +75,7 @@ I am a high-quality oriented, self-motivated, and proactive Backend developer wi
 
 - JUnit
 - Mockito
+- AssertJ
 - ArgumentCaptor
 - Postman
 
