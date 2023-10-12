@@ -2,7 +2,7 @@
   <img src="https://github.com/Javac-g/Javac-g/blob/main/LOGO.png?raw=true" alt="Header Image" />
 </div>
 
-# Nice to Meet You!! 👋
+# Nice to Meet You!!! 👋
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/maks-denysov-298594235">
