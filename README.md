@@ -21,7 +21,7 @@
 - 📞 Phone: +380970320985
 - 📧 Email: [denysov.maxym@gmail.com](mailto:denysov.maxym@gmail.com)
 
-## :man_technologist: About Me:
+## :man_technologist About Me:
 
 I am a high-quality oriented, self-motivated, and proactive Backend developer with strong problem-solving skills. I can effectively manage my time and work in a multitasking environment. I have a passion for learning and am always eager to explore new tools and technologies.
 
