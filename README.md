@@ -5,13 +5,13 @@
 # Nice to Meet You! 👋
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/maks-denysov-298594235">
+  <a href="www.linkedin.com/in/maksym-denysov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100079473348227">
+  <a href="https://www.facebook.com/maks.markes/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
-  <a href="https://www.instagram.com/Maxym.Denysov/">
+  <a href="https://www.instagram.com/max_jdev/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
