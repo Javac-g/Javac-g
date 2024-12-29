@@ -23,7 +23,7 @@
 
 ## :man_technologist About Me:
 
-I am a high-quality oriented, self-motivated, and proactive Backend developer with strong problem-solving skills. I can effectively manage my time and work in a multitasking environment. I have a passion for learning and am always eager to explore new tools and technologies.
+I am a high-quality-oriented, self-motivated, and proactive Backend Developer with extensive experience in building scalable, secure, and efficient software solutions. My expertise spans a broad range of modern development tools and frameworks, enabling me to deliver exceptional results in fast-paced, multitasking environments. With strong problem-solving skills and a passion for continuous learning, I am always eager to explore and adopt new tools and technologies to enhance my craft.  
 
 - :telescope: Currently studying web application development.
 - :seedling: Exploring Technical Content Writing.
@@ -40,44 +40,57 @@ I am a high-quality oriented, self-motivated, and proactive Backend developer wi
   <!-- Add more icons here -->
 </div>
 
-### Have Experience With:
+## 🛠️ Technical Skill Set  
 
-- Java SE (8, 11, 17)
-- Java Socket
-- Servlets
-- Spring MVC, Spring Boot, Spring Data, Spring Security, OAuth, JWT
-- REST API
-- JPA, Hibernate, ORM
-- Docker
-- Maven & Gradle
-- Git & GitHub, GitLab
-- AWS Cloud Development
-- Design Patterns
-- Object-Oriented Programming (OOP), CRUD, SOLID, MVC, GRASP
+### Primary Skills:  
+- Programming Languages & Frameworks:  
+  - Java SE (8, 11, 17), Java Socket  
+  - Servlets, REST API  
+  - Spring Framework: Spring MVC, Spring Boot, Spring Data, Spring Security, OAuth, JWT  
+  - ORM & Persistence: JPA, Hibernate  
 
-### Have Some Knowledge Of:
+- DevOps & Cloud Development:  
+  - Proficient in Docker, CI/CD tools  
+  - Skilled in AWS Cloud Development  
 
-- Groovy
-- Scala
-- Ruby
-- C, C++
-- Python
+- Build Tools: Maven, Gradle  
+- Version Control: Git (GitHub, GitLab)  
+- Design Principles & Patterns:  
+  - OOP, SOLID, CRUD, MVC, GRASP  
 
-## Databases in Use:
+- Testing Frameworks & Tools:  
+  - JUnit, Mockito, AssertJ, ArgumentCaptor, Postman  
 
-- PostgreSQL
-- MySQL
-- H2
-- MariaDB
-- Oracle
+### Databases:  
+- PostgreSQL, MySQL, H2, MariaDB, Oracle  
 
-## Testing With:
+### Additional Knowledge:  
+- Languages: Groovy, Scala, Ruby, C, C++, Python  
+- Linux Proficiency: Comfortable working in Linux environments for development and deployment tasks.  
 
-- JUnit
-- Mockito
-- AssertJ
-- ArgumentCaptor
-- Postman
+---
+
+## 🎓 Education & Certifications  
+- SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
+- Oracle Academy - Completed Java Programming courses.  
+- EPAM Academy - Java and Spring Development training.  
+- Spring Academy - Specialization in Spring-based development.  
+- JetBrains Hyperskills - Mastery of Java Core and Backend Development.  
+
+---
+
+## 🌟 Current Goals & Aspirations  
+- 🏆 Obtain Oracle Certified Associate (OCA) certification.  
+- ☁️ Pass the AWS Certified Solutions Architect course.  
+- 🔍 Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
+
+---
+
+## 🎯 Achievements on Coding Platforms  
+- Codewars: [Maxym-Denysov](https://www.codewars.com/users/Maxym-Denysov)  
+- HackerRank: [Maxym-Denysov](https://www.hackerrank.com/profile/adamsmatthew70)  
+- HyperSkills: [Maxym-Denysov](https://hyperskill.org/profile/496853247)  
+
 
 ## My Stats:
 
