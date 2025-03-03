@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/maks.markes/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
-  <a href="https://www.instagram.com/max_jфмф_dev/">
+  <a href="https://www.instagram.com/max_java_dev/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </div>
