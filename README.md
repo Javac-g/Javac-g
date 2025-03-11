@@ -23,7 +23,13 @@
 
 ## :man_technologist About Me:
 
-I am a high-quality-oriented, self-motivated, and proactive Backend Developer with extensive experience in building scalable, secure, and efficient software solutions. My expertise spans a broad range of modern development tools and frameworks, enabling me to deliver exceptional results in fast-paced, multitasking environments. With strong problem-solving skills and a passion for continuous learning, I am always eager to explore and adopt new tools and technologies to enhance my craft.  
+Backend Developer | Java | Spring Boot | Scalable Systems
+
+Experienced backend developer with a strong focus on building scalable, secure, and high-performance applications. Proficient in Java, Spring Boot, and modern backend architectures, I specialize in designing robust systems that handle complex workflows efficiently. My expertise includes database optimization, API development, distributed systems, and cloud infrastructure.
+
+I take a pragmatic approach to problem-solving, emphasizing clean code, maintainability, and best practices. Always exploring new technologies, I stay ahead of industry trends to enhance performance, security, and scalability in every project I work on.
+
+Let's build something great. 🚀
 
 - :telescope: Currently studying web application development.
 - :seedling: Exploring Technical Content Writing.
