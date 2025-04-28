@@ -18,7 +18,7 @@
 
 ## 📫 How to Reach Me:
 
-- 📞 Phone: +380970320985, +380938057307
+- 📞 Phone: +380938057307
 - 📧 Email: [maksym@pines-digital.com](mailto:maksym@pines-digital.com)
 
 ## :man_technologist About Me:
