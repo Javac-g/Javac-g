@@ -88,6 +88,7 @@ Let's build something great. 🚀
 - Codewars: [Maxym-Denysov](https://www.codewars.com/users/Maxym-Denysov)  
 - HackerRank: [Maxym-Denysov](https://www.hackerrank.com/profile/adamsmatthew70)  
 - HyperSkills: [Maxym-Denysov](https://hyperskill.org/profile/496853247)  
+![Build](https://github.com/Javac-g/PizzaCloud/actions/workflows/ci.yml/badge.svg)
 
 
 ## My Stats:
