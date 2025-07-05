@@ -37,7 +37,7 @@ Let's build something great. 🚀
 
 ---
 <div>
-  <img align="right" width="40%" src="owl.png">
+  <img align="right"  src="owl.png">
 </div>
 <p align="left">
 ## 🛠️ Technical Skill Set  
