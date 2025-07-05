@@ -39,7 +39,10 @@ Let's build something great. 🚀
 
 
 ## 🛠️ Technical Skill Set  
-
+<div>
+  <img align="right" width="40%" src="owl.png">
+</div>
+<p align="left">
 ### Primary Skills:  
 - Programming Languages & Frameworks:  
   - Java SE (8, 11, 17), Java Socket  
@@ -67,7 +70,7 @@ Let's build something great. 🚀
 - Linux Proficiency: Comfortable working in Linux environments for development and deployment tasks.  
 
 ---
-
+</p>
 ## 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
 - Oracle Academy - Completed Java Programming courses.  
