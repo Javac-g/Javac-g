@@ -28,6 +28,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md
+          
           git -c user.name='Javac-g' -c user.email='denysov.maxym@gmail.com ' commit -m "Update README with daily quote" -a
-          git push
+          if ! git diff --quiet README.md; then
+              git add README.md
+                git commit -m "Update README with daily quote"
+                git push
+              else
+                echo "No changes to README.md"
+              fi
