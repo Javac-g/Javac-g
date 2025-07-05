@@ -25,7 +25,7 @@
 
 Backend Developer | Java | Spring Boot | Scalable Systems
 
-Experienced backend developer with a strong focus on building scalable, secure, and high-performance applications. Proficient in Java, Spring Boot, and modern backend architectures, I specialize in designing robust systems that handle complex workflows efficiently. My expertise includes database optimization, API development, distributed systems, and cloud infrastructure.
+Experienced backend developer with a strong focus on building scalable, secure, and high-performance applications. Proficient in Java, Spring Boot, and modern backend architectures, I specialize in designing robust systems that efficiently handle complex workflows. My expertise includes database optimization, API development, distributed systems, and cloud infrastructure.
 
 I take a pragmatic approach to problem-solving, emphasizing clean code, maintainability, and best practices. Always exploring new technologies, I stay ahead of industry trends to enhance performance, security, and scalability in every project I work on.
 
@@ -96,18 +96,54 @@ Let's build something great. 🚀
 
 ## My Stats:
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/Javac-g">
+        <img src="https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/Javac-g">
+        <img src="https://streak-stats.demolab.com?user=Javac-g&theme=ambient_gradient" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/Javac-g/github-relationship-tracker">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ambient_gradient&show_owner=true" alt="Latest Project" />
+      </a>
+    </td>
+    <td align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/Javac-g">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Javac-g&limit=2&theme=ambient_gradient&show_owner=true&combine_all_yearly_contributions=false&" alt="Top Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br />
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Javac-g&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=ambient_gradient" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Javac-g&theme=ambient_gradient" alt="GitHub Trophies" />
 </div>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javac-g&theme=github-compact" border-radius="15">
 </div>
 
+
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javac-g&theme=onedark" alt="GitHub Trophies" />
-</div>
+
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
