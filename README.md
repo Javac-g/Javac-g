@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me:
 
 Backend Developer | Java | Spring Boot | Scalable Systems
-<p align="left">
+
 Experienced backend developer with a strong focus on building scalable, secure, and high-performance applications. Proficient in Java, Spring Boot, and modern backend architectures, I specialize in designing robust systems that efficiently handle complex workflows. My expertise includes database optimization, API development, distributed systems, and cloud infrastructure.
 
 I take a pragmatic approach to problem-solving, emphasizing clean code, maintainability, and best practices. Always exploring new technologies, I stay ahead of industry trends to enhance performance, security, and scalability in every project I work on.
@@ -33,15 +33,11 @@ Let's build something great. 🚀
 
 - :telescope: Currently studying web application development.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I enjoy solving problems on Codewars, reading tech books, and working on IoT projects using Arduino and Raspberry Pi. </p>
-<div>
-  <img align="right" width="40%"  src="owl.png">
-</div>
+- :zap: In my free time, I enjoy solving problems on Codewars, reading tech books, and working on IoT projects using Arduino and Raspberry Pi. 
+
 ---
-<div>
-  <img align="right" width="40%"  src="owl.png">
-</div>
-<p align="left">
+
+
 ## 🛠️ Technical Skill Set  
 
 | Domain              | Technologies & Tools |
@@ -57,7 +53,7 @@ Let's build something great. 🚀
 | **OS**              | Linux (proficient) |
 
 ---
-</p>
+
 
 <p align="left">
 ## 🎓 Education & Certifications  
@@ -81,7 +77,10 @@ Let's build something great. 🚀
 - HyperSkills: [Maxym-Denysov](https://hyperskill.org/profile/496853247)  
 ![Build](https://github.com/Javac-g/PizzaCloud/actions/workflows/ci.yml/badge.svg)
 
-
+</p>
+<div>
+  <img align="right" width="40%"  src="owl.png">
+</div>
 ## My Stats:
 
 <table width="100%">
