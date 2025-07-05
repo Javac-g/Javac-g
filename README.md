@@ -39,38 +39,25 @@ Let's build something great. 🚀
 
 
 ## 🛠️ Technical Skill Set  
+
+| Domain              | Technologies & Tools |
+|---------------------|----------------------|
+| **Languages**       | Java 8/11/17, Groovy, Scala, Ruby, C/C++, Python |
+| **Frameworks**      | Spring Boot, Spring Security, OAuth2, JPA, Hibernate |
+| **Databases**       | PostgreSQL, MySQL, H2, MariaDB, Oracle |
+| **Cloud & DevOps**  | AWS, Docker, CI/CD |
+| **Build Tools**     | Maven, Gradle |
+| **Testing**         | JUnit, Mockito, AssertJ, Postman |
+| **Design Patterns** | OOP, SOLID, CRUD, MVC, GRASP |
+| **Version Control** | Git (GitHub, GitLab) |
+| **OS**              | Linux (proficient) |
+
+---
+</p>
 <div>
   <img align="right" width="40%" src="owl.png">
 </div>
 <p align="left">
-### Primary Skills:  
-- Programming Languages & Frameworks:  
-  - Java SE (8, 11, 17), Java Socket  
-  - Servlets, REST API  
-  - Spring Framework: Spring MVC, Spring Boot, Spring Data, Spring Security, OAuth, JWT  
-  - ORM & Persistence: JPA, Hibernate  
-
-- DevOps & Cloud Development:  
-  - Proficient in Docker, CI/CD tools  
-  - Skilled in AWS Cloud Development  
-
-- Build Tools: Maven, Gradle  
-- Version Control: Git (GitHub, GitLab)  
-- Design Principles & Patterns:  
-  - OOP, SOLID, CRUD, MVC, GRASP  
-
-- Testing Frameworks & Tools:  
-  - JUnit, Mockito, AssertJ, ArgumentCaptor, Postman  
-
-### Databases:  
-- PostgreSQL, MySQL, H2, MariaDB, Oracle  
-
-### Additional Knowledge:  
-- Languages: Groovy, Scala, Ruby, C, C++, Python  
-- Linux Proficiency: Comfortable working in Linux environments for development and deployment tasks.  
-
----
-</p>
 ## 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
 - Oracle Academy - Completed Java Programming courses.  
