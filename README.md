@@ -54,7 +54,9 @@ Let's build something great. 🚀
 
 ---
 
-
+<div>
+  <img align="right" width="40%"  src="owl.png">
+</div>
 <p align="left">
 ## 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
@@ -78,9 +80,7 @@ Let's build something great. 🚀
 ![Build](https://github.com/Javac-g/PizzaCloud/actions/workflows/ci.yml/badge.svg)
 
 </p>
-<div>
-  <img align="right" width="40%"  src="owl.png">
-</div>
+
 ## My Stats:
 
 <table width="100%">
