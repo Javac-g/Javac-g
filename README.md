@@ -21,7 +21,7 @@
 - 📞 Phone: +380938057307
 - 📧 Email: [maksym@pines-digital.com](mailto:maksym@pines-digital.com)
 
-## :man_technologist About Me:
+## 👨‍💻 About Me:
 
 Backend Developer | Java | Spring Boot | Scalable Systems
 
