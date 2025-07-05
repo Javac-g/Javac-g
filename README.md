@@ -58,6 +58,7 @@ Let's build something great. 🚀
   <img align="right" width="40%"  src="owl.png">
 </div>
 <p align="left">
+  
 ## 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
 - Oracle Academy - Completed Java Programming courses.  
