@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Update Quote
-        run: node update-quote.js
+        run: node quote_update.js
         env:
           GITHUB_TOKEN: ${{ secrets.MY_PAT_TOKEN }}
 
