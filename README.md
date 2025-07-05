@@ -65,14 +65,13 @@ Let's build something great. 🚀
 - Spring Academy - Specialization in Spring-based development.  
 - JetBrains Hyperskills - Mastery of Java Core and Backend Development.  
 
----
 
 ## 🌟 Current Goals & Aspirations  
 - 🏆 Obtain Oracle Certified Associate (OCA) certification.  
 - ☁️ Pass the AWS Certified Solutions Architect course.  
 - 🔍 Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
 
----
+
 
 ## 🎯 Achievements on Coding Platforms  
 - Codewars: [Maxym-Denysov](https://www.codewars.com/users/Maxym-Denysov)  
