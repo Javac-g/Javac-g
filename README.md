@@ -135,9 +135,11 @@ Let's build something great. 🚀
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Instead%20of%20thinking%20outside%20the%20box%2C%20get%20rid%20of%20the%20box.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=We%20will%20now%20discuss%20in%20a%20little%20more%20detail%20the%20Struggle%20for%20Existence.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
