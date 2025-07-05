@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: '30 6 * * *'  
+    - cron: '0 10 * * *'  
 
 jobs:
   update-readme:
