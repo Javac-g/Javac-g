@@ -36,8 +36,10 @@ Let's build something great. 🚀
 - :zap: In my free time, I enjoy solving problems on Codewars, reading tech books, and working on IoT projects using Arduino and Raspberry Pi.
 
 ---
-
-
+<div>
+  <img align="right" width="40%" src="owl.png">
+</div>
+<p align="left">
 ## 🛠️ Technical Skill Set  
 
 | Domain              | Technologies & Tools |
@@ -54,9 +56,7 @@ Let's build something great. 🚀
 
 ---
 </p>
-<div>
-  <img align="right" width="40%" src="owl.png">
-</div>
+
 <p align="left">
 ## 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
