@@ -134,3 +134,8 @@ Let's build something great. 🚀
 
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="placeholder" />
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
