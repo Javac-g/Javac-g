@@ -103,7 +103,7 @@ Let's build something great. 🚀
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
       <a href="https://github.com/Javac-g/github-relationship-tracker">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ocean_dark&show_owner=true" alt="Latest Project" />
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-trcker&theme=ocean_dark&show_owner=true" alt="Latest Project" />
       </a>
     </td>
     <td align="center">
