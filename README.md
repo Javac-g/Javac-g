@@ -138,11 +138,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=The%20present%20moment%20is%20filled%20with%20joy%20and%20happiness.%20If%20you%20are%20attentive%2C%20you%20will%20see%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Every%20time%20we%20liberate%20a%20woman%2C%20we%20liberate%20a%20man.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
