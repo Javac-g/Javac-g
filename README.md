@@ -139,11 +139,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Every%20time%20we%20liberate%20a%20woman%2C%20we%20liberate%20a%20man.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=A%20very%20little%20key%20will%20open%20a%20very%20heavy%20door.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
