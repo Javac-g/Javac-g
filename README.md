@@ -141,11 +141,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=If%20you%20chase%20two%20rabbits%2C%20you%20catch%20none.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=As%20soon%20as%20you%20truly%20commit%20to%20making%20something%20happen%2C%20the%20'how'%20will%20reveal%20itself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
