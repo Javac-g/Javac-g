@@ -142,11 +142,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=As%20soon%20as%20you%20truly%20commit%20to%20making%20something%20happen%2C%20the%20'how'%20will%20reveal%20itself.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=You%20just%20can't%20beat%20the%20person%20who%20never%20gives%20up.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
