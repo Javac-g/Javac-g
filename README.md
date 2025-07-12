@@ -143,11 +143,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=You%20just%20can't%20beat%20the%20person%20who%20never%20gives%20up.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Men%20learn%20to%20love%20the%20woman%20they%20are%20attracted%20to.%20Women%20learn%20to%20become%20attracted%20to%20the%20man%20they%20fall%20in%20love%20with.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
