@@ -145,11 +145,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=You%20are%20the%20only%20problem%20you%20will%20ever%20have%20and%20you%20are%20the%20only%20solution.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Huang%20Po&quote=The%20foolish%20reject%20what%20they%20see%2C%20not%20what%20they%20think%3B%20the%20wise%20reject%20what%20they%20think%2C%20not%20what%20they%20see.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
