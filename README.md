@@ -147,11 +147,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Change%20is%20not%20a%20four%20letter%20word...but%20often%20your%20reaction%20to%20it%20is!&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
