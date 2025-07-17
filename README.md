@@ -148,11 +148,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Change%20is%20not%20a%20four%20letter%20word...but%20often%20your%20reaction%20to%20it%20is!&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=There%20are%20no%20mistakes%20in%20life%2C%20only%20lessons.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
