@@ -150,11 +150,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Patience%20is%20a%20form%20of%20wisdom.%20It%20demonstrates%20that%20we%20understand%20and%20accept%20the%20fact%20that%20sometimes%20things%20must%20unfold%20in%20their%20own%20time.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20thankful%20for%20everything%20that%20happens%20in%20your%20life%3B%20it's%20all%20an%20experience.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
