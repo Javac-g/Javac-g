@@ -151,11 +151,13 @@ Let's build something great. 🚀
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20thankful%20for%20everything%20that%20happens%20in%20your%20life%3B%20it's%20all%20an%20experience.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Receive%20without%20complaint%2C%20Work%20with%20fate.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
