@@ -59,7 +59,7 @@ Let's build something great. 🚀
 </div>
 <p align="left">
   
-## 🎓 Education & Certifications  
+ 🎓 Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
 - Oracle Academy - Completed Java Programming courses.  
 - EPAM Academy - Java and Spring Development training.  
@@ -67,7 +67,7 @@ Let's build something great. 🚀
 - JetBrains Hyperskills - Mastery of Java Core and Backend Development.  
 
 
-## 🌟 Current Goals & Aspirations  
+ 🌟 Current Goals & Aspirations  
 - 🏆 Obtain Oracle Certified Associate (OCA) certification.  
 - ☁️ Pass the AWS Certified Solutions Architect course.  
 - 🔍 Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
