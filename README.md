@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://github.com/Javac-g/Javac-g/blob/main/banner.png?raw=true" alt="Header Image" />
 </div>
+ 
 
-# Nice to Meet You! 👋
-
+                                                 /\_/\                       /\_/\  
+                                                ( o.o )  Nice to Meet You!  ( o.o ) 
+                                                 > ^ <                       > ^ <
 <div align="center" id="badges">
   <a href="www.linkedin.com/in/maksym-denysov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -16,12 +18,12 @@
   </a>
 </div>
 
-## 📫 How to Reach Me:
+##  How to Reach Me:
 
 - 📞 Phone: +380938057307
 - 📧 Email: [maksym@pines-digital.com](mailto:maksym@pines-digital.com)
 
-## 👨‍💻 About Me:
+##  About Me:
 
 Backend Developer | Java | Spring Boot | Scalable Systems
 
@@ -29,7 +31,7 @@ Experienced backend developer with a strong focus on building scalable, secure, 
 
 I take a pragmatic approach to problem-solving, emphasizing clean code, maintainability, and best practices. Always exploring new technologies, I stay ahead of industry trends to enhance performance, security, and scalability in every project I work on.
 
-Let's build something great. 🚀
+Let's build something great. 
 
 - :telescope: Currently studying web application development.
 - :seedling: Exploring Technical Content Writing.
@@ -38,7 +40,7 @@ Let's build something great. 🚀
 ---
 
 
-## 🛠️ Technical Skill Set  
+##  Technical Skill Set  
 
 | Domain              | Technologies & Tools |
 |---------------------|----------------------|
@@ -59,7 +61,7 @@ Let's build something great. 🚀
 </div>
 <p align="left">
   
- 🎓 Education & Certifications  
+  Education & Certifications  
 - SoftServe IT Academy - Backend Development (🎓 [Verify Here](#))  
 - Oracle Academy - Completed Java Programming courses.  
 - EPAM Academy - Java and Spring Development training.  
@@ -67,14 +69,14 @@ Let's build something great. 🚀
 - JetBrains Hyperskills - Mastery of Java Core and Backend Development.  
 
 
- 🌟 Current Goals & Aspirations  
+ Current Goals & Aspirations  
 - 🏆 Obtain Oracle Certified Associate (OCA) certification.  
 - ☁️ Pass the AWS Certified Solutions Architect course.  
 - 🔍 Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
 
 
 
-## 🎯 Achievements on Coding Platforms  
+##  Achievements on Coding Platforms  
 - Codewars: [Maxym-Denysov](https://www.codewars.com/users/Maxym-Denysov)  
 - HackerRank: [Maxym-Denysov](https://www.hackerrank.com/profile/adamsmatthew70)  
 - HyperSkills: [Maxym-Denysov](https://hyperskill.org/profile/496853247)  
@@ -124,7 +126,7 @@ Let's build something great. 🚀
 </div>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center"> -  Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ  - </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javac-g&theme=github-compact" border-radius="15">
 </div>
@@ -134,7 +136,7 @@ Let's build something great. 🚀
 <div align="center">
 
 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">  - Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ -  </h2>
 
 
 
