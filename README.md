@@ -6,6 +6,7 @@
                                                  /\_/\                       /\_/\  
                                                 ( o.o )  Nice to Meet You!  ( o.o ) 
                                                  > ^ <                       > ^ <
+                                            !!! Unfollowers gets permanently banned !!!!
 <div align="center" id="badges">
   <a href="www.linkedin.com/in/maksym-denysov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
