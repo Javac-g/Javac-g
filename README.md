@@ -159,11 +159,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Do%20what%20you%20can%2C%20with%20what%20you%20have%2C%20where%20you%20are.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=It%20doesn't%20matter%20where%20you%20are%20coming%20from.%20All%20that%20matters%20is%20where%20you%20are%20going.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
