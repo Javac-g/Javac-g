@@ -160,11 +160,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=It%20doesn't%20matter%20where%20you%20are%20coming%20from.%20All%20that%20matters%20is%20where%20you%20are%20going.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=You%20will%20never%20do%20anything%20in%20this%20world%20without%20courage.%20It%20is%20the%20greatest%20quality%20of%20the%20mind%20next%20to%20honor.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
