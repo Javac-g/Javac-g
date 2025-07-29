@@ -163,11 +163,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Your%20next%20step%20is%20simple.%20You%20are%20the%20first%20domino.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=If%20life%20were%20predictable%20it%20would%20cease%20to%20be%20life%2C%20and%20be%20without%20flavor.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
