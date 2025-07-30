@@ -164,11 +164,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=If%20life%20were%20predictable%20it%20would%20cease%20to%20be%20life%2C%20and%20be%20without%20flavor.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=The%20eye%20with%20which%20I%20see%20God%20is%20the%20same%20eye%20with%20which%20God%20sees%20me.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
