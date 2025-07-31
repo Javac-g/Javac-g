@@ -165,11 +165,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=The%20eye%20with%20which%20I%20see%20God%20is%20the%20same%20eye%20with%20which%20God%20sees%20me.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=I%20have%20lost%20friends%2C%20some%20by%20death...others%20by%20sheer%20inability%20to%20cross%20the%20street.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
