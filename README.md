@@ -166,11 +166,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Virginia%20Woolf&quote=I%20have%20lost%20friends%2C%20some%20by%20death...others%20by%20sheer%20inability%20to%20cross%20the%20street.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Throw%20your%20heart%20over%20the%20fence%20and%20the%20rest%20will%20follow&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
