@@ -167,11 +167,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Throw%20your%20heart%20over%20the%20fence%20and%20the%20rest%20will%20follow&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=A%20mentor%20is%20someone%20who%20sees%20more%20talent%20and%20ability%20within%20you%2C%20than%20you%20see%20in%20yourself%2C%20and%20helps%20bring%20it%20out%20of%20you.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
