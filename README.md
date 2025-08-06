@@ -171,11 +171,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Character%20is%20destiny.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
