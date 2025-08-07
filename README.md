@@ -172,11 +172,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=No%20valid%20plans%20for%20the%20future%20can%20be%20made%20by%20those%20who%20have%20no%20capacity%20for%20living%20now.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=Even%20when%20a%20friend%20does%20something%20you%20do%20not%20like%2C%20he%20continues%20to%20be%20your%20friend.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
