@@ -173,11 +173,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=Even%20when%20a%20friend%20does%20something%20you%20do%20not%20like%2C%20he%20continues%20to%20be%20your%20friend.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=We%20must%20be%20free%20not%20because%20we%20claim%20freedom%2C%20but%20because%20we%20practice%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
