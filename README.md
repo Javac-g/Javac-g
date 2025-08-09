@@ -174,11 +174,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=We%20must%20be%20free%20not%20because%20we%20claim%20freedom%2C%20but%20because%20we%20practice%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=The%20older%20you%20get%2C%20the%20better%20you%20get.%20Unless%20you're%20a%20banana.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
