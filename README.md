@@ -177,11 +177,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Sad%20thing%20is%2C%20you%20can%20still%20love%20someone%20and%20be%20wrong%20for%20them.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20forget%20the%20whole%20world%20is%20easy%3B%20to%20make%20the%20whole%20world%20forget%20you%20is%20hard.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
