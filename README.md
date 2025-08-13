@@ -178,11 +178,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zhuangzi&quote=To%20forget%20the%20whole%20world%20is%20easy%3B%20to%20make%20the%20whole%20world%20forget%20you%20is%20hard.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=He%20who%20can%2C%20does.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
