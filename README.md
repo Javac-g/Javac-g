@@ -179,11 +179,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=He%20who%20can%2C%20does.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=We%20win%20by%20helping%20each%20other%20win.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
