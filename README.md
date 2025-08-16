@@ -181,11 +181,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=It's%20OK%20to%20have%20your%20eggs%20in%20one%20basket%20as%20long%20as%20you%20control%20what%20happens%20to%20that%20basket.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bhagavad%20Gita&quote=The%20soul%20is%20neither%20born%2C%20and%20nor%20does%20it%20die.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
