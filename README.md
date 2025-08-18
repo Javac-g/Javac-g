@@ -183,11 +183,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Publilius%20Syrus&quote=A%20wise%20man%20will%20be%20master%20of%20his%20mind%2C%20a%20fool%20will%20be%20its%20slave.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20is%20richest%20who%20is%20content%20with%20the%20least%2C%20for%20content%20is%20the%20wealth%20of%20nature.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
