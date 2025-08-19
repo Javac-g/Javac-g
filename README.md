@@ -184,11 +184,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=He%20is%20richest%20who%20is%20content%20with%20the%20least%2C%20for%20content%20is%20the%20wealth%20of%20nature.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Vision%20is%20the%20art%20of%20seeing%20things%20invisible.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
