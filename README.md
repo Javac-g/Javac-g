@@ -190,11 +190,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=The%20first%20principle%20of%20success%20is%20desire.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Be%20true%20to%20yourself%2C%20help%20others%2C%20make%20each%20day%20your%20masterpiece&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
