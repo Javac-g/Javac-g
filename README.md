@@ -192,11 +192,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20less%20you%20try%20to%20impress%2C%20the%20more%20peaceful%20you%20can%20be.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Inspire%20yourself%20to%20be%20great.%20Being%20good%20isn't%20good%20enough.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
