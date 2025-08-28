@@ -193,11 +193,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=Inspire%20yourself%20to%20be%20great.%20Being%20good%20isn't%20good%20enough.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20man%20who%20dares%20to%20waste%20one%20hour%20of%20time%20has%20not%20discovered%20the%20value%20of%20life.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
