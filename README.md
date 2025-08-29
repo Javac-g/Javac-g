@@ -194,11 +194,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20man%20who%20dares%20to%20waste%20one%20hour%20of%20time%20has%20not%20discovered%20the%20value%20of%20life.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=Do%20not%20be%20awe%20struck%20by%20other%20people%20and%20try%20to%20copy%20them.%20Nobody%20can%20be%20you%20as%20efficiently%20as%20you%20can.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
