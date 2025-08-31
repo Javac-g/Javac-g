@@ -196,11 +196,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Procrastination%20is%20one%20of%20the%20most%20common%20and%20deadliest%20of%20diseases%20and%20its%20toll%20on%20success%20and%20happiness%20is%20heavy.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Stop%20wasting%20time%20defending%20your%20problems%20and%20work%20on%20addressing%20them%20instead.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
