@@ -197,11 +197,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Stop%20wasting%20time%20defending%20your%20problems%20and%20work%20on%20addressing%20them%20instead.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=He%20who%20knows%20how%20to%20wait%20need%20make%20no%20concessions.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
