@@ -198,11 +198,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=He%20who%20knows%20how%20to%20wait%20need%20make%20no%20concessions.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=One%20loyal%20friend%20is%20worth%20ten%20thousand%20relatives.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
