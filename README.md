@@ -199,11 +199,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=One%20loyal%20friend%20is%20worth%20ten%20thousand%20relatives.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=Never%20doubt%20that%20a%20small%20group%20of%20thoughtful%2C%20committed%20citizens%20can%20change%20the%20world%3B%20indeed%2C%20it's%20the%20only%20thing%20that%20ever%20has.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
