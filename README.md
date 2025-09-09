@@ -205,11 +205,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20will%20never%20happen%20again.%20Don't%20waste%20it%20with%20a%20false%20start%20or%20no%20start%20at%20all.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=True%20prayer%20has%20no%20set%20form.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
