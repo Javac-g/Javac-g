@@ -206,11 +206,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=True%20prayer%20has%20no%20set%20form.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Better%20to%20die%20fighting%20for%20freedom%20than%20be%20a%20prisoner%20all%20the%20days%20of%20your%20life.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
