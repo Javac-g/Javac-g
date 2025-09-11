@@ -207,11 +207,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Better%20to%20die%20fighting%20for%20freedom%20than%20be%20a%20prisoner%20all%20the%20days%20of%20your%20life.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=Without%20education%2C%20we%20are%20in%20a%20horrible%20and%20deadly%20danger%20of%20taking%20educated%20people%20seriously.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
