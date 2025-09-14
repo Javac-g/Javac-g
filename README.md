@@ -210,11 +210,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Never%20lose%20hope.%20Storms%20make%20people%20stronger%20and%20never%20last%20forever.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=Give%20more%20than%20you%20think%20you%20can%2C%20trusting%20that%20you%20are%20richer%20than%20you%20think.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
