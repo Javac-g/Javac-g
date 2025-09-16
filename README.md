@@ -212,11 +212,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20grateful%20for%20what%20you%20have%20now%2C%20and%20nothing%20should%20be%20taken%20for%20granted.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20do%20great%20work%20one%20must%20be%20very%20idle%20as%20well%20as%20very%20industrious.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
