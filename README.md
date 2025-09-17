@@ -213,11 +213,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Butler&quote=To%20do%20great%20work%20one%20must%20be%20very%20idle%20as%20well%20as%20very%20industrious.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=A%20gentleman%20accepts%20the%20responsibility%20of%20his%20actions%20and%20bears%20the%20burden%20of%20their%20consequences.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
