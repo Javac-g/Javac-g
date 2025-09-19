@@ -215,11 +215,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=To%20think%20is%20easy.%20To%20act%20is%20hard.%20But%20the%20hardest%20thing%20in%20the%20world%20is%20to%20act%20in%20accordance%20with%20your%20thinking.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=To%20be%20alive%20-%20is%20Power.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
