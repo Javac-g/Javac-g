@@ -216,11 +216,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Emily%20Dickinson&quote=To%20be%20alive%20-%20is%20Power.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=Love%20and%20compassion%20are%20necessities%2C%20not%20luxuries.%20Without%20them%2C%20humanity%20cannot%20survive.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
