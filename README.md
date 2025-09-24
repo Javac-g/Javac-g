@@ -220,11 +220,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Humor%20isn't%20for%20everyone.%20It's%20only%20for%20people%20who%20want%20to%20have%20fun%2C%20enjoy%20life%2C%20and%20feel%20alive.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=We%20have%20a%20duty%20to%20maintain%20the%20light%20of%20consciousness%20to%20make%20sure%20it%20continues%20into%20the%20future.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
