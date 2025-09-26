@@ -222,11 +222,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Being%20ignorant%20is%20not%20so%20much%20a%20shame%2C%20as%20being%20unwilling%20to%20learn.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
