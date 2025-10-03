@@ -229,11 +229,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Everything%20around%20us%20is%20made%20up%20of%20energy.%20To%20attract%20positive%20things%20in%20your%20life%2C%20start%20by%20giving%20off%20positive%20energy.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Be%20royal%20in%20your%20own%20fashion%3A%20act%20like%20a%20king%20to%20be%20treated%20like%20one.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
