@@ -232,11 +232,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20most%20important%20single%20ingredient%20in%20the%20formula%20of%20success%20is%20knowing%20how%20to%20get%20along%20with%20people.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=The%20more%20we%20have%20the%20less%20we%20own.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
