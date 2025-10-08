@@ -234,11 +234,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Never%20waste%20a%20minute%20of%20your%20precious%20life%20thinking%20about%20people%20you%20don't%20like.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Conscience%20is%20a%20man's%20compass.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
