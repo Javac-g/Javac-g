@@ -235,11 +235,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Conscience%20is%20a%20man's%20compass.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Love%20is%20merely%20the%20name%20for%20the%20desire%20and%20pursuit%20of%20the%20whole.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
