@@ -236,11 +236,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristophanes&quote=Love%20is%20merely%20the%20name%20for%20the%20desire%20and%20pursuit%20of%20the%20whole.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Having%20lots%20of%20money%20while%20not%20having%20inner%20peace%20is%20like%20dying%20of%20thirst%20while%20bathing%20in%20the%20ocean.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
