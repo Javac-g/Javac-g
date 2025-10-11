@@ -237,11 +237,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=Having%20lots%20of%20money%20while%20not%20having%20inner%20peace%20is%20like%20dying%20of%20thirst%20while%20bathing%20in%20the%20ocean.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Will%20Rogers&quote=It's%20not%20what%20you%20pay%20a%20man%2C%20but%20what%20he%20costs%20you%20that%20counts.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
