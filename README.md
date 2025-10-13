@@ -239,11 +239,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=A%20person%20without%20a%20sense%20of%20humor%20is%20like%20a%20wagon%20without%20springs%2C%20jolted%20by%20every%20pebble%20in%20the%20road.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=Most%20of%20the%20evil%20in%20this%20world%20is%20done%20by%20people%20with%20good%20intentions.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
