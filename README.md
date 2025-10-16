@@ -242,11 +242,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Where%20focus%20goes%2C%20energy%20flows.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=He%20who%20cannot%20be%20a%20good%20follower%20cannot%20be%20a%20good%20leader.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
