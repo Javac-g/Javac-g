@@ -243,11 +243,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=He%20who%20cannot%20be%20a%20good%20follower%20cannot%20be%20a%20good%20leader.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Sometimes%20you%20have%20to%20travel%20a%20long%20way%20to%20find%20what%20is%20near.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
