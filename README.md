@@ -244,11 +244,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Sometimes%20you%20have%20to%20travel%20a%20long%20way%20to%20find%20what%20is%20near.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Challenge%20yourself%20to%20find%20the%20good%20and%20beautiful%20thing%20inside%20of%20everyone.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
