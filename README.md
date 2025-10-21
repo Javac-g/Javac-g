@@ -247,11 +247,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Growth%20is%20in%20a%20series%20of%20mistakes.%20That's%20the%20only%20way%20you%20learn.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20more%20possibilities%20available%20in%20each%20moment%20than%20we%20realize.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
