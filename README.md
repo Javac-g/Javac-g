@@ -254,11 +254,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Adi%20Da%20Samraj&quote=Fear%20of%20death%20is%20fear%20of%20the%20Unknown.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20man%20with%20outward%20courage%20dares%20to%20die%3A%20a%20man%20with%20inner%20courage%20dares%20to%20live.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
