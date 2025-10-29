@@ -255,11 +255,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20man%20with%20outward%20courage%20dares%20to%20die%3A%20a%20man%20with%20inner%20courage%20dares%20to%20live.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charlie%20Chaplin&quote=Nothing%20is%20permanent%20in%20this%20wicked%20world%20-%20not%20even%20our%20troubles.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
