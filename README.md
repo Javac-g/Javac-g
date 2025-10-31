@@ -257,11 +257,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=To%20affect%20the%20quality%20of%20the%20day%2C%20that%20is%20the%20highest%20of%20arts.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Men%20are%20anxious%20to%20improve%20their%20circumstances%20but%20are%20unwilling%20to%20improve%20themselves%3B%20they%20therefore%20remain%20bound.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
