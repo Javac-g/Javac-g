@@ -258,11 +258,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=Men%20are%20anxious%20to%20improve%20their%20circumstances%20but%20are%20unwilling%20to%20improve%20themselves%3B%20they%20therefore%20remain%20bound.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=If%20you%20are%20far%20from%20the%20enemy%2C%20make%20him%20believe%20you%20are%20near.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
