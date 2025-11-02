@@ -259,11 +259,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sun%20Tzu&quote=If%20you%20are%20far%20from%20the%20enemy%2C%20make%20him%20believe%20you%20are%20near.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Dylan&quote=You%20don't%20need%20a%20weatherman%20to%20know%20which%20way%20the%20wind%20blows.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
