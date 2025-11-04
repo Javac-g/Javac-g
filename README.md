@@ -261,11 +261,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=Gratitude%20is%20the%20fairest%20blossom%20which%20springs%20from%20the%20soul.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Closing%20your%20eyes%20and%20listening%20to%20silence%20is%20self-care.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
