@@ -262,11 +262,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Closing%20your%20eyes%20and%20listening%20to%20silence%20is%20self-care.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Every%20man%20gotta%20right%20to%20decide%20his%20own%20destiny.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
