@@ -263,11 +263,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Every%20man%20gotta%20right%20to%20decide%20his%20own%20destiny.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Kindness%20in%20words%20creates%20confidence.%20Kindness%20in%20thinking%20creates%20profoundness.%20Kindness%20in%20giving%20creates%20love.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
