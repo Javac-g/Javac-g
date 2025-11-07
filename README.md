@@ -264,11 +264,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Kindness%20in%20words%20creates%20confidence.%20Kindness%20in%20thinking%20creates%20profoundness.%20Kindness%20in%20giving%20creates%20love.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Be%20brave%20enough%20to%20suck%20at%20something%20new.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
