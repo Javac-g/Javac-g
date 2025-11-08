@@ -265,11 +265,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Be%20brave%20enough%20to%20suck%20at%20something%20new.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=In%20order%20to%20be%20walked%20over%2C%20you%20have%20to%20be%20lying%20down.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
