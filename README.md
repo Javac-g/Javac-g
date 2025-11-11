@@ -268,11 +268,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=No%20one%20ever%20said%20life%20was%20fair.%20Just%20Eventful.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=If%20we%20did%20all%20the%20things%20we%20are%20capable%20of%2C%20we%20would%20literally%20astound%20ourselves.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
