@@ -270,11 +270,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Knowledge%20isn't%20power%20until%20it%20is%20applied.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=Always%20be%20a%20first%20rate%20version%20of%20yourself%20and%20not%20a%20second%20rate%20version%20of%20someone%20else.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
