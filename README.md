@@ -271,11 +271,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=Always%20be%20a%20first%20rate%20version%20of%20yourself%20and%20not%20a%20second%20rate%20version%20of%20someone%20else.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=It%20matters%20not%20who%20you%20love%2C%20where%20you%20love%2C%20why%20you%20love%2C%20when%20you%20love%20or%20how%20you%20love%2C%20it%20matters%20only%20that%20you%20love.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
