@@ -273,11 +273,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Don't%20let%20the%20noise%20of%20others%20opinions%20drown%20out%20your%20inner%20voice.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20dreamers%20are%20the%20saviors%20of%20the%20worlds.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
