@@ -274,11 +274,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20dreamers%20are%20the%20saviors%20of%20the%20worlds.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=A%20change%20is%20brought%20about%20because%20ordinary%20people%20do%20extraordinary%20things.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
