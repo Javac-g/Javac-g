@@ -275,11 +275,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=A%20change%20is%20brought%20about%20because%20ordinary%20people%20do%20extraordinary%20things.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Wishing%20to%20be%20friends%20is%20quick%20work%2C%20but%20friendship%20is%20a%20slow%20ripening%20fruit.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
