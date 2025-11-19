@@ -276,11 +276,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Wishing%20to%20be%20friends%20is%20quick%20work%2C%20but%20friendship%20is%20a%20slow%20ripening%20fruit.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20question%20isn't%20who%20is%20going%20to%20let%20me%3B%20it's%20who%20is%20going%20to%20stop%20me.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
