@@ -277,11 +277,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20question%20isn't%20who%20is%20going%20to%20let%20me%3B%20it's%20who%20is%20going%20to%20stop%20me.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=Truth%20is%20the%20offspring%20of%20silence%20and%20meditation.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
