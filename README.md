@@ -283,11 +283,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Don't%20let%20the%20silly%20little%20dramas%20of%20each%20day%20get%20you%20down.%20For%20you%20are%20here%20to%20do%20great%20things.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=It%20takes%20a%20very%20long%20time%20to%20become%20young.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
