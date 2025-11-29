@@ -286,11 +286,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=You%20have%20a%20brain%20and%20mind%20of%20your%20own.%20Use%20it%2C%20and%20reach%20your%20own%20decisions.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Get%20busy%20living%2C%20or%20get%20busy%20dying.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
