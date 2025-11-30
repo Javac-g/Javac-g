@@ -287,11 +287,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Get%20busy%20living%2C%20or%20get%20busy%20dying.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=The%20more%20acquaintances%20you%20have%2C%20the%20less%20you%20know%20them.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
