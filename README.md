@@ -288,11 +288,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=The%20more%20acquaintances%20you%20have%2C%20the%20less%20you%20know%20them.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Life%20is%20a%20question%20and%20how%20we%20live%20it%20is%20our%20answer.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
