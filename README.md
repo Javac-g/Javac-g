@@ -292,11 +292,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vaclav%20Havel&quote=Work%20for%20something%20because%20it%20is%20good%2C%20not%20just%20because%20it%20stands%20a%20chance%20to%20succeed.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=A%20good%20stance%20and%20posture%20reflect%20a%20proper%20state%20of%20mind.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
