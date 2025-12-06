@@ -293,11 +293,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=A%20good%20stance%20and%20posture%20reflect%20a%20proper%20state%20of%20mind.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Life%20is%20not%20meant%20to%20be%20easy%20my%20child%2C%20but%20take%20courage%3A%20it%20can%20be%20delightful.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
