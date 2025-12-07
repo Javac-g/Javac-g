@@ -294,11 +294,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Life%20is%20not%20meant%20to%20be%20easy%20my%20child%2C%20but%20take%20courage%3A%20it%20can%20be%20delightful.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=A%20man%20should%20never%20be%20ashamed%20to%20own%20that%20he%20has%20been%20in%20the%20wrong%2C%20which%20is%20but%20saying%2C%20that%20he%20is%20wiser%20today%20than%20yesterday.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
