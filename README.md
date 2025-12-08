@@ -295,11 +295,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=A%20man%20should%20never%20be%20ashamed%20to%20own%20that%20he%20has%20been%20in%20the%20wrong%2C%20which%20is%20but%20saying%2C%20that%20he%20is%20wiser%20today%20than%20yesterday.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Educating%20the%20mind%20without%20educating%20the%20heart%20is%20no%20education%20at%20all.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
