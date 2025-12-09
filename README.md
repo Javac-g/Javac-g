@@ -296,11 +296,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Educating%20the%20mind%20without%20educating%20the%20heart%20is%20no%20education%20at%20all.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=When%20everything%20seems%20to%20be%20going%20against%20you%2C%20remember%20that%20the%20airplane%20takes%20off%20against%20the%20wind%2C%20not%20with%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
