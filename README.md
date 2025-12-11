@@ -298,11 +298,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=You%20were%20put%20on%20this%20earth%20to%20achieve%20your%20greatest%20self%2C%20to%20live%20out%20your%20purpose%2C%20and%20to%20do%20it%20courageously.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=Real%20loss%20is%20only%20possible%20when%20you%20love%20something%20more%20than%20you%20love%20yourself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
