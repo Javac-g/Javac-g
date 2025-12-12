@@ -299,11 +299,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Williams&quote=Real%20loss%20is%20only%20possible%20when%20you%20love%20something%20more%20than%20you%20love%20yourself.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=The%20temptation%20to%20give%20up%20is%20strongest%20just%20before%20victory.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
