@@ -301,11 +301,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=Those%20who%20are%20possessed%20by%20nothing%20possess%20everything.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
