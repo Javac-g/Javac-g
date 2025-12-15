@@ -302,11 +302,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=A%20single%20dream%20is%20more%20powerful%20than%20a%20thousand%20realities.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
