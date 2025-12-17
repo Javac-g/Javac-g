@@ -304,11 +304,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Change%20is%20hardest%20at%20the%20beginning%2C%20messiest%20in%20the%20middle%20and%20best%20at%20the%20end.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=There%20are%20no%20mistakes%20in%20life%2C%20only%20lessons.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
