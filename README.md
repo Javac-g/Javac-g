@@ -306,11 +306,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=We%20must%20learn%20to%20live%20together%20as%20brothers%20or%20perish%20together%20as%20fools.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winning%20isn't%20everything%2C%20but%20wanting%20to%20win%20is.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
