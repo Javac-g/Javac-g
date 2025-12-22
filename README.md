@@ -309,11 +309,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=The%20mind%20is%20the%20limit.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=To%20know%20even%20one%20life%20has%20breathed%20easier%20because%20you%20have%20lived.%20This%20is%20to%20have%20succeeded.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
