@@ -310,11 +310,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=To%20know%20even%20one%20life%20has%20breathed%20easier%20because%20you%20have%20lived.%20This%20is%20to%20have%20succeeded.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Anyone%20who%20stops%20learning%20is%20old%2C%20whether%20at%20twenty%20or%20eighty.%20Anyone%20who%20keeps%20learning%20stays%20young.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
