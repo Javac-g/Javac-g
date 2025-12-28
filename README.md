@@ -315,11 +315,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Turn%20off%20your%20mind%2C%20relax%2C%20and%20float%20downstream.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=Re-examine%20all%20that%20you%20have%20been%20told...%20dismiss%20that%20which%20insults%20your%20soul.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
