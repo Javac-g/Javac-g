@@ -316,11 +316,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=Re-examine%20all%20that%20you%20have%20been%20told...%20dismiss%20that%20which%20insults%20your%20soul.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=The%20key%20to%20immortality%20is%20first%20living%20a%20life%20worth%20remembering.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
