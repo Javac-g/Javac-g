@@ -318,11 +318,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=If%20you%20want%20to%20know%20what%20God%20thinks%20about%20money%20just%20look%20at%20the%20people%20He%20gives%20it%20to.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=It%20is%20not%20because%20things%20are%20difficult%20that%20we%20do%20not%20dare%3B%20it%20is%20because%20we%20do%20not%20dare%20that%20things%20are%20difficult.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
