@@ -321,11 +321,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Nature%20loves%20to%20hide.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=Success%20is%20never%20final%3B%20failure%20is%20never%20fatal.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
