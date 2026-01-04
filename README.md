@@ -322,11 +322,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Conrad%20Hilton&quote=Success%20is%20never%20final%3B%20failure%20is%20never%20fatal.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Absorb%20what%20is%20useful%2C%20discard%20what%20is%20useless%20and%20add%20what%20is%20specifically%20your%20own.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
