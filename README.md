@@ -324,11 +324,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Edison&quote=If%20we%20all%20did%20the%20things%20we%20are%20capable%20of%20doing%2C%20we%20would%20literally%20astound%20ourselves.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Success%20is%20a%20consequence%20and%20must%20not%20be%20a%20goal.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
