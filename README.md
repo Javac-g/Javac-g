@@ -325,11 +325,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gustave%20Flaubert&quote=Success%20is%20a%20consequence%20and%20must%20not%20be%20a%20goal.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=When%20asked%2C%20how%20do%20you%20write%3F%20I%20invariably%20answer%2C%20one%20word%20at%20a%20time.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
