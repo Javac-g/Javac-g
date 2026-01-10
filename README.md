@@ -328,11 +328,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=The%20past%20is%20history.%20It%20no%20longer%20exists%2C%20but%20you%20are%20keeping%20it%20alive%20in%20your%20mind%20through%20your%20thoughts.%20%20Let%20it%20go.%20It%20is%20not%20serving%20you.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=The%20more%20you%20are%20motivated%20by%20Love%2C%20The%20more%20Fearless%20%26%20Free%20your%20action%20will%20be.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
