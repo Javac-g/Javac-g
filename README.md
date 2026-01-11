@@ -329,11 +329,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=The%20more%20you%20are%20motivated%20by%20Love%2C%20The%20more%20Fearless%20%26%20Free%20your%20action%20will%20be.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=Money%20poisons%20you%20when%20you've%20got%20it%2C%20and%20starves%20you%20when%20you%20haven't.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
