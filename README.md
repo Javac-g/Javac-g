@@ -331,11 +331,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=No%20great%20mind%20has%20ever%20existed%20without%20a%20touch%20of%20madness.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=It%20is%20not%20uncommon%20for%20people%20to%20spend%20their%20whole%20life%20waiting%20to%20start%20living.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
