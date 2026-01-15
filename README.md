@@ -333,11 +333,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Some%20men%20see%20things%20as%20they%20are%20and%20ask%20why.%20Others%20dream%20things%20that%20never%20were%20and%20ask%20why%20not.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Success%20is%20within%20the%20reach%20of%20just%20about%20everyone.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
