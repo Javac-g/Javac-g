@@ -334,11 +334,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Success%20is%20within%20the%20reach%20of%20just%20about%20everyone.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Comedy%20%3D%20tragedy%20%2B%20time.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
