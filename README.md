@@ -335,11 +335,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=Comedy%20%3D%20tragedy%20%2B%20time.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=You%20can%20avoid%20reality%2C%20but%20you%20cannot%20avoid%20the%20consequences%20of%20avoiding%20reality.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
