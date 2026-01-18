@@ -336,11 +336,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=You%20can%20avoid%20reality%2C%20but%20you%20cannot%20avoid%20the%20consequences%20of%20avoiding%20reality.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Johann%20Wolfgang%20von%20Goethe&quote=A%20man%20sees%20in%20the%20world%20what%20he%20carries%20in%20his%20heart.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
