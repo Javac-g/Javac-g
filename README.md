@@ -341,11 +341,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Those%20who%20attain%20the%20middle%20Dominate%20the%20whole.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Unexpressed%20emotions%20will%20never%20die.%20They%20are%20buried%20alive%20and%20will%20come%20forth%20later%20in%20uglier%20ways.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
