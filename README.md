@@ -342,11 +342,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Unexpressed%20emotions%20will%20never%20die.%20They%20are%20buried%20alive%20and%20will%20come%20forth%20later%20in%20uglier%20ways.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Keep%20your%20dreams%2C%20you%20never%20know%20when%20you%20might%20need%20them.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
