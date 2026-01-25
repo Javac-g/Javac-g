@@ -343,11 +343,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Keep%20your%20dreams%2C%20you%20never%20know%20when%20you%20might%20need%20them.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Do%20not%20ignore%20the%20passion%20that%20burns%20in%20you.%20Spend%20time%20to%20discover%20your%20gift.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
