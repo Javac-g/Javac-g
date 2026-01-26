@@ -344,11 +344,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Do%20not%20ignore%20the%20passion%20that%20burns%20in%20you.%20Spend%20time%20to%20discover%20your%20gift.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=I%20am%20thankful%20to%20all%20those%20who%20said%20no.%20It's%20because%20of%20them%2C%20I%20did%20it%20myself.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
