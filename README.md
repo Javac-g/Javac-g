@@ -346,11 +346,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Babe%20Ruth&quote=You%20just%20can't%20beat%20the%20person%20who%20never%20gives%20up.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=An%20investment%20in%20knowledge%20pays%20the%20best%20interest.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
