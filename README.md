@@ -347,11 +347,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=An%20investment%20in%20knowledge%20pays%20the%20best%20interest.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=May%20you%20find%20grace%20as%20you%20surrender%20to%20life.%20May%20you%20find%20happiness%2C%20as%20you%20stop%20seeking%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
