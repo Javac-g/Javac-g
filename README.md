@@ -349,11 +349,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Successful%20people%20ask%20better%20questions%2C%20and%20as%20a%20result%2C%20they%20get%20better%20answers.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Life%20goes%20by%20fast.%20Enjoy%20it.%20Calm%20down.%20It's%20all%20funny.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
