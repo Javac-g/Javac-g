@@ -352,11 +352,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=Nature%20loves%20to%20hide.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=All%20that%20a%20man%20achieves%20and%20all%20that%20he%20fails%20to%20achieve%20is%20the%20direct%20result%20of%20his%20own%20thoughts.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
