@@ -354,11 +354,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Creative%20people%20are%20often%20found%20either%20disagreeable%20or%20intimidating%20by%20mediocrities.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=Laziness%20may%20appear%20attractive%2C%20but%20work%20gives%20satisfaction.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
