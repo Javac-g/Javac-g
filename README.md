@@ -355,11 +355,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=Laziness%20may%20appear%20attractive%2C%20but%20work%20gives%20satisfaction.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Deliberately%20seek%20the%20company%20of%20people%20who%20influence%20you%20to%20think%20and%20act%20on%20building%20the%20life%20you%20desire.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
