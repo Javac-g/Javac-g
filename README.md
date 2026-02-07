@@ -356,11 +356,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Deliberately%20seek%20the%20company%20of%20people%20who%20influence%20you%20to%20think%20and%20act%20on%20building%20the%20life%20you%20desire.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20you%20see%20someone%20without%20a%20smile%20give%20them%20one%20of%20yours.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
