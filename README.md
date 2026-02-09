@@ -358,11 +358,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=You%20want%20to%20live%20but%20do%20you%20know%20how%20to%20live%3F%20You%20are%20scared%20of%20dying%20and%20tell%20me%2C%20is%20the%20kind%20of%20life%20you%20lead%20really%20any%20different%20from%20being%20dead%3F&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Nothing%20has%20more%20strength%20than%20dire%20necessity.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
