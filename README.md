@@ -359,11 +359,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Nothing%20has%20more%20strength%20than%20dire%20necessity.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=It%20is%20safer%20to%20search%20in%20the%20maze%20than%20to%20remain%20in%20a%20cheeseless%20situation.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
