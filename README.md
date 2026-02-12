@@ -361,11 +361,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Life%20is%20a%20gift%2C%20and%20it%20offers%20us%20the%20privilege%2C%20opportunity%2C%20and%20responsibility%20to%20give%20something%20back%20by%20becoming%20more.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20work%20is%20going%20to%20fill%20a%20large%20part%20of%20your%20life%2C%20and%20the%20only%20way%20to%20be%20truly%20satisfied%20is%20to%20do%20what%20you%20believe%20is%20great%20work.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
