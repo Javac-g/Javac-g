@@ -366,11 +366,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Not%20all%20those%20who%20wander%20are%20lost.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=The%20best%20fighter%20is%20never%20angry.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
