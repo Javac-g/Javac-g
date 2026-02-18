@@ -367,11 +367,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=The%20best%20fighter%20is%20never%20angry.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=If%20we%20learn%20to%20open%20our%20hearts%2C%20anyone%2C%20including%20the%20people%20who%20drive%20us%20crazy%2C%20can%20be%20our%20teacher.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
