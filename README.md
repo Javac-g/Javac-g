@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Javac-g/Javac-g/blob/main/banner.png?raw=true" alt="Header Image" />
+  <img src="https://github.com/Javac-g/Javac-g/blob/main/bg.png?raw=true" alt="Header Image" />
 </div>
  
 
