@@ -369,11 +369,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=To%20perceive%20is%20to%20suffer.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=The%20more%20we%20value%20things%2C%20the%20less%20we%20value%20ourselves.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
