@@ -372,11 +372,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=You%20get%20in%20life%20what%20you%20have%20the%20courage%20to%20ask%20for.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Good%20entrepreneurs%20don't%20fail%20because%20they%20stay%20at%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
