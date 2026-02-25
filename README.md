@@ -374,11 +374,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=The%20only%20difference%20between%20success%20and%20failure%20is%20the%20ability%20to%20take%20action.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=A%20Penny%20Saved%20is%20a%20Penny%20Earned&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
