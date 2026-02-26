@@ -375,11 +375,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=A%20Penny%20Saved%20is%20a%20Penny%20Earned&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Soyen%20Shaku&quote=Watch%20what%20you%20say%2C%20and%20whatever%20you%20say%2C%20practice%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
