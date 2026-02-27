@@ -376,11 +376,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Soyen%20Shaku&quote=Watch%20what%20you%20say%2C%20and%20whatever%20you%20say%2C%20practice%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20major%20difference%20between%20the%20big%20shot%20and%20the%20little%20shot%20is%20the%20big%20shot%20is%20just%20a%20little%20shot%20who%20kept%20on%20shooting.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
