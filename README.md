@@ -380,11 +380,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=Turn%20off%20your%20mind%2C%20relax%2C%20and%20float%20downstream.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Empty%20yourself%20of%20everything%20-%20let%20the%20mind%20become%20still.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
