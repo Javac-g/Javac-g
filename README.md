@@ -381,11 +381,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Empty%20yourself%20of%20everything%20-%20let%20the%20mind%20become%20still.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=If%20you%20need%20inspiration%2C%20don't%20do%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
