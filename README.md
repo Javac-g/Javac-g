@@ -382,11 +382,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=If%20you%20need%20inspiration%2C%20don't%20do%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gurbaksh%20Chahal&quote=It%20doesn't%20matter%20if%20the%20glass%20is%20half%20empty%20or%20half%20full.%20Be%20grateful%20you%20have%20a%20glass%20-%20you're%20the%20only%20person%20that%20can%20decide%20what's%20in%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
