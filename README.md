@@ -21,8 +21,8 @@
 
 ##  How to Reach Me:
 
-- 📞 Phone: +380938057307
-- 📧 Email: [maksym@pines-digital.com](mailto:maksym@pines-digital.com)
+- Phone: +380938057307
+- Email: [maksym@pines-digital.com](mailto:maksym@pines-digital.com)
 
 ##  About Me:
 
@@ -34,9 +34,9 @@ I take a pragmatic approach to problem-solving, emphasizing clean code, maintain
 
 Let's build something great. 
 
-- :telescope: Currently studying web application development.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I enjoy solving problems on Codewars, reading tech books, and working on IoT projects using Arduino and Raspberry Pi. 
+- Currently studying web application development.
+- Exploring Technical Content Writing.
+- In my free time, I enjoy solving problems on Codewars, reading tech books, and working on IoT projects using Arduino and Raspberry Pi. 
 
 ---
 
@@ -71,9 +71,9 @@ Let's build something great.
 
 
  Current Goals & Aspirations  
-- 🏆 Obtain Oracle Certified Associate (OCA) certification.  
-- ☁️ Pass the AWS Certified Solutions Architect course.  
-- 🔍 Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
+- Obtain Oracle Certified Associate (OCA) certification.  
+- Pass the AWS Certified Solutions Architect course.  
+- Deepen expertise in microservices architecture, distributed systems, and cloud-native applications.  
 
 
 
