@@ -87,42 +87,42 @@ Let's build something great.
 
 ## My Stats:
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <h3 align="center"><strong>GitHub Stats</strong></h3>
 <p align="center">
   <a href="https://github.com/Javac-g">
-    <img src="https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=ocean_dark" alt="GitHub Stats" />
+    <img src="https://gh-readme-stats.hackclub.dev/api?username=Javac-g&show_icons=true&theme=ocean_dark&cache_seconds=86400" />
   </a>
 </p>
 
-<h3 align="center"><strong>Streak Stats</strong></h3>
+<h3 align="center"><strong>Contribution Streak</strong></h3>
 <p align="center">
   <a href="https://github.com/Javac-g">
-    <img src="https://streak-stats.demolab.com?user=Javac-g&theme=ocean_dark" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Javac-g&theme=ocean_dark&cache_seconds=86400" />
   </a>
+</p>
+
+<h3 align="center"><strong>Top Languages</strong></h3>
+<p align="center">
+  <img src="https://gh-readme-stats.hackclub.dev/api/top-langs/?username=Javac-g&layout=compact&theme=ocean_dark&cache_seconds=86400" />
 </p>
 
 <h3 align="center"><strong>Latest Project</strong></h3>
 <p align="center">
   <a href="https://github.com/Javac-g/github-relationship-tracker">
-    <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ocean_dark&show_owner=true" alt="Latest Project" />
+    <img src="https://gh-readme-stats.hackclub.dev/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ocean_dark&show_owner=true" />
   </a>
 </p>
 
-<h3 align="center"><strong>Top Contributions</strong></h3>
+<h3 align="center"><strong>Activity Graph</strong></h3>
 <p align="center">
-  <a href="https://github.com/Javac-g">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Javac-g&limit=2&theme=ocean_dark&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javac-g&theme=github-dark" />
 </p>
 
-<br>
-
+<h3 align="center"><strong>Achievements</strong></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=ocean_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javac-g&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Javac-g&theme=onedark&no-frame=true&margin-w=8&margin-h=8" />
 </p>
 
 <!--Contribution Graph-->
