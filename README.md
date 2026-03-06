@@ -87,44 +87,43 @@ Let's build something great.
 
 ## My Stats:
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/Javac-g">
-        <img src="https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=ocean_dark" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/Javac-g">
-        <img src="https://streak-stats.demolab.com?user=Javac-g&theme=ocean_dark" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Javac-g/github-relationship-tracker">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ocean_dark&show_owner=true" alt="Latest Project" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
-      <a href="https://github.com/Javac-g">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Javac-g&limit=2&theme=ocean_dark&show_owner=true&combine_all_yearly_contributions=false&" alt="Top Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=ocean_dark" alt="Top Languages" />
-</div>
+<h3 align="center"><strong>GitHub Stats</strong></h3>
+<p align="center">
+  <a href="https://github.com/Javac-g">
+    <img src="https://github-readme-stats.vercel.app/api?username=Javac-g&show_icons=true&theme=ocean_dark" alt="GitHub Stats" />
+  </a>
+</p>
 
-<div align="center">
+<h3 align="center"><strong>Streak Stats</strong></h3>
+<p align="center">
+  <a href="https://github.com/Javac-g">
+    <img src="https://streak-stats.demolab.com?user=Javac-g&theme=ocean_dark" alt="Streak Stats" />
+  </a>
+</p>
+
+<h3 align="center"><strong>Latest Project</strong></h3>
+<p align="center">
+  <a href="https://github.com/Javac-g/github-relationship-tracker">
+    <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Javac-g&repo=github-relationship-tracker&theme=ocean_dark&show_owner=true" alt="Latest Project" />
+  </a>
+</p>
+
+<h3 align="center"><strong>Top Contributions</strong></h3>
+<p align="center">
+  <a href="https://github.com/Javac-g">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Javac-g&limit=2&theme=ocean_dark&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javac-g&layout=compact&theme=ocean_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Javac-g&theme=onedark" alt="GitHub Trophies" />
-</div>
+</p>
 
 <!--Contribution Graph-->
 <h2 align="center"> -  Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ  - </h2>
