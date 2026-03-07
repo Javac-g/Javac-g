@@ -345,11 +345,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Trust%20is%20the%20foundation%20of%20great%20leadership.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Don't%20explain%20your%20philosophy.%20Embody%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
