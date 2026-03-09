@@ -347,11 +347,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Difficult%20and%20meaningful%20will%20always%20bring%20more%20satisfaction%20than%20easy%20and%20meaningless.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=Dream%20big.%20Start%20small.%20But%20most%20of%20all%2C%20start.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
