@@ -348,11 +348,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=Dream%20big.%20Start%20small.%20But%20most%20of%20all%2C%20start.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20truth%20is%20not%20for%20all%20men%2C%20but%20for%20those%20who%20seek%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
