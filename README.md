@@ -349,11 +349,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20truth%20is%20not%20for%20all%20men%2C%20but%20for%20those%20who%20seek%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Leave%20the%20beaten%20track%20behind%20occasionally%20and%20dive%20into%20the%20woods.%20Every%20time%20you%20do%20you%20will%20be%20certain%20to%20find%20something%20you%20have%20never%20seen%20before.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
