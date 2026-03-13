@@ -351,11 +351,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=Better%20to%20have%2C%20and%20not%20need%2C%20than%20to%20need%2C%20and%20not%20have.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=The%20more%20you%20extend%20kindness%20to%20yourself%2C%20the%20more%20it%20will%20become%20your%20automatic%20response%20to%20others.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
