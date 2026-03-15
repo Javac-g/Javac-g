@@ -353,11 +353,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Don't%20worry%20about%20being%20successful%2C%20but%20work%20toward%20being%20significant%20and%20the%20success%20will%20naturally%20follow.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Confidence%20is%20contagious.%20So%20is%20lack%20of%20confidence.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
