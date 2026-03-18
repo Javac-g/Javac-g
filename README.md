@@ -356,11 +356,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It's%20the%20unknown%20we%20fear%20when%20we%20look%20upon%20death%20and%20darkness%2C%20nothing%20more.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=People%20often%20say%20that%20motivation%20doesn't%20last.%20Well%2C%20neither%20does%20bathing%20-%20that's%20why%20we%20recommend%20it%20daily.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
