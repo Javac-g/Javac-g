@@ -357,11 +357,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=People%20often%20say%20that%20motivation%20doesn't%20last.%20Well%2C%20neither%20does%20bathing%20-%20that's%20why%20we%20recommend%20it%20daily.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Goodness%20is%20the%20only%20investment%20that%20never%20fails.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
