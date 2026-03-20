@@ -358,11 +358,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Goodness%20is%20the%20only%20investment%20that%20never%20fails.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Better%20late%20than%20never.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
