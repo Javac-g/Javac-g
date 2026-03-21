@@ -359,11 +359,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=Better%20late%20than%20never.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20he%20cannot%20stop%20the%20mind%20that%20seeks%20after%20fame%20and%20profit%2C%20he%20will%20spend%20his%20life%20without%20finding%20peace.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
