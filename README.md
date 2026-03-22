@@ -360,11 +360,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=If%20he%20cannot%20stop%20the%20mind%20that%20seeks%20after%20fame%20and%20profit%2C%20he%20will%20spend%20his%20life%20without%20finding%20peace.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Normality%20is%20a%20paved%20road%3A%20It's%20comfortable%20to%20walk%2C%20but%20no%20flowers%20grow%20on%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
