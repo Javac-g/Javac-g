@@ -362,11 +362,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Confuse%20them%20with%20your%20silence%20and%20amaze%20them%20with%20your%20actions.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=The%20future%20doesn't%20belong%20to%20the%20faint-hearted%3B%20it%20belongs%20to%20the%20brave.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
