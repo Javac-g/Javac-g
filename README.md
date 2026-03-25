@@ -363,11 +363,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=The%20future%20doesn't%20belong%20to%20the%20faint-hearted%3B%20it%20belongs%20to%20the%20brave.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=It%20is%20better%20to%20light%20a%20single%20candle%20than%20to%20curse%20the%20darkness.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
