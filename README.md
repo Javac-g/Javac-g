@@ -366,11 +366,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Wrong%20turns%20are%20as%20important%20as%20right%20turns.%20More%20important%2C%20sometimes.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Do%20not%20believe%20that%20you%20will%20reach%20your%20destination%20without%20leaving%20the%20shore.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
