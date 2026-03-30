@@ -368,11 +368,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Success%20is%20doing%20what%20you%20want%20to%20do%2C%20when%20you%20want%2C%20where%20you%20want%2C%20with%20whom%20you%20want%2C%20as%20much%20as%20you%20want.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=If%20you%20want%20to%20be%20successful%2C%20you%20have%20to%20jump%2C%20there's%20no%20way%20around%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
