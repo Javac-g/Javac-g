@@ -369,11 +369,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=If%20you%20want%20to%20be%20successful%2C%20you%20have%20to%20jump%2C%20there's%20no%20way%20around%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=The%20swift%20wind%20of%20compromise%20is%20a%20lot%20more%20devastating%20than%20the%20sudden%20jolt%20of%20misfortune.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
