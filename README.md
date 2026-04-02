@@ -371,11 +371,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=When%20you%20can't%20make%20them%20see%20the%20light%2C%20make%20them%20feel%20the%20heat.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=An%20ounce%20of%20performance%20is%20worth%20pounds%20of%20promises.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
