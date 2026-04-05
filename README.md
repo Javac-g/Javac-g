@@ -374,11 +374,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=You%20can't%20have%20anything%20worthwhile%20without%20difficulties.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20you%20always%20do%20what%20you've%20always%20done%2C%20you'll%20always%20get%20what%20you've%20always%20got.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
