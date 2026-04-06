@@ -375,11 +375,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20you%20always%20do%20what%20you've%20always%20done%2C%20you'll%20always%20get%20what%20you've%20always%20got.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=A%20minute's%20success%20pays%20the%20failure%20of%20years.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
