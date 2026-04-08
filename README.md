@@ -377,11 +377,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20greatest%20test%20of%20courage%20on%20earth%20is%20to%20bear%20defeat%20without%20losing%20heart.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=To%20be%20totally%20at%20leisure%20for%20one%20day%20is%20to%20be%20immortal%20for%20one%20day.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
