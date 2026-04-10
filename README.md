@@ -379,11 +379,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=If%20we%20have%20no%20peace%2C%20it%20is%20because%20we%20have%20forgotten%20that%20we%20belong%20to%20each%20other.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Great%20loves%20too%20must%20be%20endured.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
