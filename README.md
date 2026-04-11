@@ -380,11 +380,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Coco%20Chanel&quote=Great%20loves%20too%20must%20be%20endured.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Creative%20endeavors%20are%20by%20their%20nature%20uncertain.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
