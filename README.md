@@ -381,11 +381,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Creative%20endeavors%20are%20by%20their%20nature%20uncertain.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20real%20measure%20of%20your%20wealth%20is%20how%20much%20you'd%20be%20worth%20if%20you%20lost%20all%20your%20money.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
