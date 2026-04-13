@@ -382,11 +382,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20real%20measure%20of%20your%20wealth%20is%20how%20much%20you'd%20be%20worth%20if%20you%20lost%20all%20your%20money.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=First%20say%20to%20yourself%20what%20you%20would%20be%3B%20and%20then%20do%20what%20you%20have%20to%20do.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
