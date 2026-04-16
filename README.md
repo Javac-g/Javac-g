@@ -385,11 +385,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=Nothing%20can%20bring%20you%20peace%20but%20yourself.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Against%20the%20assault%20of%20laughter%20nothing%20can%20stand.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
