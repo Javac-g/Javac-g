@@ -386,11 +386,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Against%20the%20assault%20of%20laughter%20nothing%20can%20stand.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20everyone%20is%20moving%20forward%20together%2C%20then%20success%20takes%20care%20of%20itself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
