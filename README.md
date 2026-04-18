@@ -387,11 +387,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=If%20everyone%20is%20moving%20forward%20together%2C%20then%20success%20takes%20care%20of%20itself.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=As%20soon%20as%20you%20truly%20commit%20to%20making%20something%20happen%2C%20the%20'how'%20will%20reveal%20itself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
