@@ -390,11 +390,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Emancipate%20yourself%20from%20mental%20slavery%2C%20none%20but%20ourselves%20can%20free%20our%20mind.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=Everything%20you%20look%20at%20can%20become%20a%20fairy%20tale%20and%20you%20can%20get%20a%20story%20from%20everything%20you%20touch.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
