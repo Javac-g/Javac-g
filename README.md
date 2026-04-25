@@ -394,11 +394,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=The%20biggest%20adventure%20is%20what%20lies%20ahead.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=It%20is%20literally%20true%20that%20you%20can%20succeed%20best%20and%20quickest%20by%20helping%20others%20succeed.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
