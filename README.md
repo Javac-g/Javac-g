@@ -396,11 +396,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=The%20first%20rule%20of%20handling%20conflict%20is%20don't%20hang%20around%20people%20who%20are%20constantly%20engaging%20in%20conflict.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=You%20change%20the%20world%20by%20being%20yourself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
