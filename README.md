@@ -397,11 +397,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=You%20change%20the%20world%20by%20being%20yourself.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Unless%20you%20change%20how%20you%20are%2C%20you%20will%20always%20have%20what%20you%20got.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
