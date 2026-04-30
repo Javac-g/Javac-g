@@ -399,11 +399,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=All%20leaders%20are%20readers.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Washington&quote=Be%20not%20glad%20at%20the%20misfortune%20of%20another%2C%20though%20he%20may%20be%20your%20enemy.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
