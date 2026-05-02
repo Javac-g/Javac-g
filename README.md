@@ -401,11 +401,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Edgar%20Allan%20Poe&quote=Convinced%20myself%2C%20I%20seek%20not%20to%20convince.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=It%20isn't%20what%20you%20do%2C%20but%20how%20you%20do%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
