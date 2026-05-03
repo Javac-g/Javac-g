@@ -402,11 +402,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=It%20isn't%20what%20you%20do%2C%20but%20how%20you%20do%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Don%C2%B4t%20hesitate%20or%20allow%20yourself%20to%20make%20excuses.%20Just%20get%20out%20and%20do%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
