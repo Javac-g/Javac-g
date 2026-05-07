@@ -406,11 +406,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=Human%20behavior%20flows%20from%20three%20main%20sources%3A%20desire%2C%20emotion%2C%20and%20knowledge.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=There%20is%20no%20value%20in%20anything%20until%20it%20is%20finished.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
