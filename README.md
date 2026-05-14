@@ -413,11 +413,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=Never%20do%20things%20others%20can%20do%20and%20will%20do%20if%20there%20are%20things%20others%20cannot%20do%20or%20will%20not%20do.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=We're%20responsible%20for%20everything%20that%20happens%20to%20us.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
