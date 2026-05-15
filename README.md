@@ -414,11 +414,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=We're%20responsible%20for%20everything%20that%20happens%20to%20us.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Resilience%20is%20not%20what%20happens%20to%20you.%20It's%20how%20you%20react%20to%2C%20respond%20to%2C%20and%20recover%20from%20what%20happens%20to%20you.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
