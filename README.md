@@ -417,11 +417,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=The%20most%20efficient%20way%20of%20rendering%20the%20poor%20harmless%20is%20to%20teach%20them%20to%20want%20to%20imitate%20the%20rich.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=The%20first%20principle%20of%20success%20is%20desire.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
