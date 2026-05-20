@@ -419,11 +419,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Most%20people%20do%20not%20really%20want%20freedom%2C%20because%20freedom%20involves%20responsibility%2C%20and%20most%20people%20are%20frightened%20of%20responsibility.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=It's%20necessary%20to%20get%20the%20losers%20out%20of%20your%20life%20if%20you%20want%20to%20live%20your%20dream.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
