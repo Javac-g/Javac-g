@@ -422,11 +422,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Great%20thoughts%20speak%20only%20to%20the%20thoughtful%20mind%2C%20but%20great%20actions%20speak%20to%20all%20mankind.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=If%20there%20were%20no%20God%2C%20there%20would%20be%20no%20atheists.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
