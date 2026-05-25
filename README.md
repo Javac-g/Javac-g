@@ -423,11 +423,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=If%20there%20were%20no%20God%2C%20there%20would%20be%20no%20atheists.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Making%20money%20isn't%20hard%20in%20itself...%20What's%20hard%20is%20to%20earn%20it%20doing%20something%20worth%20devoting%20one's%20life%20to.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
