@@ -424,11 +424,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Making%20money%20isn't%20hard%20in%20itself...%20What's%20hard%20is%20to%20earn%20it%20doing%20something%20worth%20devoting%20one's%20life%20to.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=The%20more%20you%20are%20motivated%20by%20Love%2C%20The%20more%20Fearless%20%26%20Free%20your%20action%20will%20be.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
