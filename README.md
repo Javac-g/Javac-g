@@ -426,11 +426,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Just%20do%20the%20best%20you%20can.%20No%20one%20can%20do%20more%20than%20that.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
