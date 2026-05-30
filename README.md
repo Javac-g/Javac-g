@@ -427,11 +427,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Just%20do%20the%20best%20you%20can.%20No%20one%20can%20do%20more%20than%20that.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=It%20is%20the%20power%20of%20thought%20that%20gives%20man%20power%20over%20nature.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
