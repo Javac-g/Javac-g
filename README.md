@@ -428,11 +428,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=It%20is%20the%20power%20of%20thought%20that%20gives%20man%20power%20over%20nature.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=To%20be%20angry%20is%20to%20revenge%20the%20faults%20of%20others%20on%20ourselves.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
