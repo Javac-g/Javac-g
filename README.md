@@ -430,11 +430,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20important%20to%20fight%20and%20fight%20again%2C%20and%20keep%20fighting%2C%20for%20only%20then%20can%20evil%20be%20kept%20at%20bay%20though%20never%20quite%20eradicated.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Everything%20has%20beauty%20but%20not%20everyone%20sees%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
