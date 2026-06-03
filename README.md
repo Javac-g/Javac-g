@@ -431,11 +431,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=Everything%20has%20beauty%20but%20not%20everyone%20sees%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Do%20not%20bite%20at%20the%20bait%20of%20pleasure%2C%20till%20you%20know%20there%20is%20no%20hook%20beneath%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
