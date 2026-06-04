@@ -432,11 +432,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Do%20not%20bite%20at%20the%20bait%20of%20pleasure%2C%20till%20you%20know%20there%20is%20no%20hook%20beneath%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20do%20not%20push%20the%20boundaries%2C%20you%20will%20never%20know%20where%20they%20are.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
