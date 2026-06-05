@@ -433,11 +433,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=If%20you%20do%20not%20push%20the%20boundaries%2C%20you%20will%20never%20know%20where%20they%20are.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=If%20you%20do%20the%20work%20you%20get%20rewarded.%20There%20are%20no%20shortcuts%20in%20life.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
