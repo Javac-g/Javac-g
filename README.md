@@ -434,11 +434,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=If%20you%20do%20the%20work%20you%20get%20rewarded.%20There%20are%20no%20shortcuts%20in%20life.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20there%20is%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn't%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
