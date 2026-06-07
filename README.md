@@ -435,11 +435,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20there%20is%20a%20book%20that%20you%20want%20to%20read%2C%20but%20it%20hasn't%20been%20written%20yet%2C%20then%20you%20must%20write%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=You%20must%20live%20in%20the%20present%2C%20launch%20yourself%20on%20every%20wave%2C%20find%20your%20eternity%20in%20each%20moment.%20Fools%20stand%20on%20their%20island%20of%20opportunities%20and%20look%20toward%20another%20land.%20There%20is%20no%20other%20land%3B%20there%20is%20no%20other%20life%20but%20this.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
