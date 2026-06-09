@@ -437,11 +437,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Orison%20Swett%20Marden&quote=Success%20is%20the%20child%20of%20drudgery%20and%20perseverance.%20It%20cannot%20be%20coaxed%20or%20bribed%3B%20pay%20the%20price%20and%20it%20is%20yours.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=When%20it%20hurts%20-%20observe.%20Life%20is%20trying%20to%20teach%20you%20something.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
