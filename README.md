@@ -438,11 +438,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anita%20Krizzan&quote=When%20it%20hurts%20-%20observe.%20Life%20is%20trying%20to%20teach%20you%20something.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Looking%20after%20my%20health%20today%20gives%20me%20a%20better%20hope%20for%20tomorrow.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
