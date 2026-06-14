@@ -442,11 +442,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20person%20who%20never%20made%20a%20mistake%20never%20tried%20anything%20new.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Would%20you%20rather%20live%20your%20life%20according%20to%20the%20approval%20of%20others%20or%20aligned%20with%20your%20truth%20and%20your%20dreams%3F&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
