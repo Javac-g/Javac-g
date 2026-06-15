@@ -443,11 +443,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=Would%20you%20rather%20live%20your%20life%20according%20to%20the%20approval%20of%20others%20or%20aligned%20with%20your%20truth%20and%20your%20dreams%3F&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=What%20most%20people%20need%20to%20learn%20in%20life%20is%20how%20to%20love%20people%20and%20use%20things%20instead%20of%20using%20people%20and%20loving%20things.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
