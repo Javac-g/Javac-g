@@ -444,11 +444,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=What%20most%20people%20need%20to%20learn%20in%20life%20is%20how%20to%20love%20people%20and%20use%20things%20instead%20of%20using%20people%20and%20loving%20things.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=If%20you%20find%20you%20are%20not%20valued%20and%20appreciated%2C%20then%20shift%20your%20attention%20to%20places%20where%20you%20will%20be%20valued%20and%20appreciated.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
