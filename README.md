@@ -447,11 +447,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Life%20is%20like%20a%20wheel.%20Sooner%20or%20later%2C%20it%20always%20comes%20around%20to%20where%20you%20started%20again.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=Live%20in%20each%20season%20as%20it%20passes%3B%20breathe%20the%20air%2C%20drink%20the%20drink%2C%20taste%20the%20fruit%2C%20and%20resign%20yourself%20to%20the%20influence%20of%20the%20earth.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
