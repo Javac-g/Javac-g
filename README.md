@@ -449,11 +449,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Remain%20calm.%20Be%20kind.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Stop%20wasting%20time%20looking%20at%20someone%20else's%20reality%20while%20doing%20nothing%20about%20yours.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
