@@ -452,11 +452,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20never%20dwell%20on%20what%20happened.%20You%20can't%20change%20it.%20Move%20forward.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=Every%20drop%20in%20the%20ocean%20counts.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
