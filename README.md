@@ -453,11 +453,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=Every%20drop%20in%20the%20ocean%20counts.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Everyone%20has%20the%20right%20to%20make%20his%20own%20decisions%2C%20but%20none%20has%20the%20right%20to%20force%20his%20decision%20on%20others.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
