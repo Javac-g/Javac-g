@@ -457,11 +457,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=If%20the%20only%20prayer%20you%20ever%20say%20in%20your%20entire%20life%20is%20thank%20you%2C%20it%20will%20be%20enough.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20enjoy%20life%20when%20things%20are%20happening.%20I%20don't%20care%20if%20it's%20good%20things%20or%20bad%20things.%20That%20means%20you're%20alive.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
