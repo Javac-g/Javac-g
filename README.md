@@ -458,11 +458,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20enjoy%20life%20when%20things%20are%20happening.%20I%20don't%20care%20if%20it's%20good%20things%20or%20bad%20things.%20That%20means%20you're%20alive.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Kindness%20is%20a%20language%20which%20the%20deaf%20can%20hear%20and%20the%20blind%20can%20see.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
