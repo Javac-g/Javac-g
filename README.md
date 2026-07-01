@@ -459,11 +459,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Kindness%20is%20a%20language%20which%20the%20deaf%20can%20hear%20and%20the%20blind%20can%20see.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20poet%20should%20be%20so%20crafty%20with%20words%20that%20he%20is%20envied%20even%20for%20his%20pains.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
