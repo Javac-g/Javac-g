@@ -460,11 +460,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=A%20poet%20should%20be%20so%20crafty%20with%20words%20that%20he%20is%20envied%20even%20for%20his%20pains.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Anyone%20telling%20you%20it's%20pointless%20to%20share%20your%20perspective%20is%20sharing%20their%20perspective.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
