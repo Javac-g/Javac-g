@@ -461,11 +461,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Anyone%20telling%20you%20it's%20pointless%20to%20share%20your%20perspective%20is%20sharing%20their%20perspective.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=A%20warrior%20does%20not%20give%20up%20what%20he%20loves%2C%20he%20finds%20the%20love%20in%20what%20he%20does.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
