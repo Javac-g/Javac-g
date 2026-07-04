@@ -462,11 +462,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=A%20warrior%20does%20not%20give%20up%20what%20he%20loves%2C%20he%20finds%20the%20love%20in%20what%20he%20does.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=It%20is%20startling%20to%20realize%20how%20much%20unbelief%20is%20necessary%20to%20make%20belief%20possible.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
