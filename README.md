@@ -466,11 +466,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=The%20best%20revenge%20is%20to%20be%20unlike%20him%20who%20performed%20the%20injury.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Nothing%20ever%20goes%20away%20until%20it%20has%20taught%20us%20what%20we%20need%20to%20know.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
