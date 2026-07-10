@@ -468,11 +468,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Good%20entrepreneurs%20don't%20fail%20because%20they%20stay%20at%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Quality%20is%20more%20important%20than%20quantity.%20One%20home%20run%20is%20much%20better%20than%20two%20doubles.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
