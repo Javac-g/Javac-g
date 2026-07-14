@@ -472,11 +472,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=Things%20may%20come%20to%20those%20who%20wait%2C%20but%20only%20the%20things%20left%20by%20those%20who%20hustle.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=Paths%20are%20made%20by%20walking.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
