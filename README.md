@@ -473,11 +473,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=Paths%20are%20made%20by%20walking.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=He%20who%20cannot%20be%20a%20good%20follower%20cannot%20be%20a%20good%20leader.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
