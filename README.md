@@ -475,11 +475,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Simon%20Sinek&quote=The%20goal%20is%20not%20to%20be%20perfect%20by%20the%20end%2C%20the%20goal%20is%20to%20be%20better%20today.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=The%20greatest%20miracle%20is%20to%20be%20alive.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
