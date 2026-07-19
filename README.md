@@ -477,11 +477,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Goals%20are%20the%20fuel%20in%20the%20furnace%20of%20achievement.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Do%20not%20anticipate%20trouble%2C%20or%20worry%20about%20what%20may%20never%20happen.%20Keep%20in%20the%20sunlight.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
