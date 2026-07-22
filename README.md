@@ -480,11 +480,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Herodotus&quote=In%20peace%2C%20sons%20bury%20their%20fathers.%20In%20war%2C%20fathers%20bury%20their%20sons.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Amateurs%20sit%20and%20wait%20for%20inspiration%2C%20the%20rest%20of%20us%20just%20get%20up%20and%20got%20to%20work.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
