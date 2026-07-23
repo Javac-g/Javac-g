@@ -481,11 +481,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Amateurs%20sit%20and%20wait%20for%20inspiration%2C%20the%20rest%20of%20us%20just%20get%20up%20and%20got%20to%20work.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=There%20are%20two%20kinds%20of%20perfect%20people%3A%20those%20who%20are%20dead%2C%20and%20those%20who%20have%20not%20been%20born%20yet.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
