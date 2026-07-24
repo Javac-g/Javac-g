@@ -482,11 +482,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=There%20are%20two%20kinds%20of%20perfect%20people%3A%20those%20who%20are%20dead%2C%20and%20those%20who%20have%20not%20been%20born%20yet.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20don't%20have%20to%20be%20great%20to%20start%2C%20but%20you%20have%20to%20start%20to%20be%20great.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
