@@ -484,11 +484,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Give%20credit%20where%20credit%20is%20due%3A%20simply%20said%2C%20if%20you%20want%20loyalty%20and%20best%20effort%2C%20you%20must%20be%20thoughtful.%20%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Stuff%20your%20eyes%20with%20wonder...%20live%20as%20if%20you'd%20drop%20dead%20in%20ten%20seconds.%20See%20the%20world.%20It's%20more%20fantastic%20than%20any%20dream%20made%20or%20paid%20for%20in%20factories.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
