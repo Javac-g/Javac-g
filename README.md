@@ -485,11 +485,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Stuff%20your%20eyes%20with%20wonder...%20live%20as%20if%20you'd%20drop%20dead%20in%20ten%20seconds.%20See%20the%20world.%20It's%20more%20fantastic%20than%20any%20dream%20made%20or%20paid%20for%20in%20factories.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=Hope%20and%20fear%20come%20from%20feeling%20that%20we%20lack%20something%3B%20they%20come%20from%20a%20sense%20of%20poverty.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
