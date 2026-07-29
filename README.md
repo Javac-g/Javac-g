@@ -487,11 +487,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=I%20put%20my%20heart%20and%20soul%20into%20my%20work%2C%20and%20I%20have%20lost%20my%20mind%20in%20the%20process.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20is%20our%20choices%20that%20show%20what%20we%20truly%20are%2C%20far%20more%20than%20our%20abilities.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
