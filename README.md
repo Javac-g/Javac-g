@@ -489,11 +489,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=There%20is%20no%20limitations%20except%20those%20we%20create%20for%20ourselves.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Over%20time%2C%20loneliness%20gets%20inside%20you%20and%20doesn't%20go%20away.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
