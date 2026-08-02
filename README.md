@@ -491,11 +491,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Becoming%20a%20great%20leader%20doesn't%20mean%20being%20perfect.%20it%20means%20living%20with%20your%20imperfections.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
