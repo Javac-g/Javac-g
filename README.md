@@ -492,11 +492,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=Becoming%20a%20great%20leader%20doesn't%20mean%20being%20perfect.%20it%20means%20living%20with%20your%20imperfections.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Be%20polite%20to%20all%2C%20but%20intimate%20with%20few.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
