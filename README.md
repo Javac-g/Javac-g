@@ -494,11 +494,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Success%20is%20like%20reaching%20an%20important%20birthday%20and%20finding%20you're%20exactly%20the%20same.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=If%20you%20hang%20out%20with%20chickens%2C%20you're%20going%20to%20cluck%20and%20if%20you%20hang%20out%20with%20eagles%2C%20you're%20going%20to%20fly.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
