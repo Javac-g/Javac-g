@@ -498,11 +498,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Throughout%20this%20life%2C%20you%20can%20never%20be%20certain%20of%20living%20long%20enough%20to%20take%20another%20breath.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
