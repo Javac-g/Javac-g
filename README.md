@@ -499,11 +499,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Problems%20remain%20as%20problems%20because%20people%20are%20busy%20defending%20them%20rather%20than%20finding%20solutions.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Many%20answers%20to%20what%20you%20seek%20don't%20lie%20'out%20there'.%20If%20you%20look%20inwards%2C%20you'll%20find%20the%20answer%20has%20been%20in%20you%20all%20along.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
