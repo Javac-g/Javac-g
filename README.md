@@ -500,11 +500,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Many%20answers%20to%20what%20you%20seek%20don't%20lie%20'out%20there'.%20If%20you%20look%20inwards%2C%20you'll%20find%20the%20answer%20has%20been%20in%20you%20all%20along.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=I%20am%20not%20proud%2C%20but%20I%20am%20happy%3B%20and%20happiness%20blinds%2C%20I%20think%2C%20more%20than%20pride.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
