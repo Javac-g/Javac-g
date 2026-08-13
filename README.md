@@ -502,11 +502,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=The%20older%20you%20get%2C%20the%20better%20you%20get.%20Unless%20you're%20a%20banana.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Question%20everything.%20Learn%20something.%20Answer%20nothing.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
