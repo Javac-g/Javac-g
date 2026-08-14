@@ -503,11 +503,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Question%20everything.%20Learn%20something.%20Answer%20nothing.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Your%20next%20step%20is%20simple.%20You%20are%20the%20first%20domino.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
