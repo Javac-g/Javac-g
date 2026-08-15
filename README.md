@@ -504,11 +504,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Your%20next%20step%20is%20simple.%20You%20are%20the%20first%20domino.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=Stay%20away%20from%20people%20who%20makes%20you%20feel%20like%20you%20are%20wasting%20their%20time.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
