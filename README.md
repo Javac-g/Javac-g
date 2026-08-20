@@ -509,11 +509,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=Life%20goes%20by%20fast.%20Enjoy%20it.%20Calm%20down.%20It's%20all%20funny.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Wealth%20is%20the%20product%20of%20man's%20capacity%20to%20think.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
