@@ -511,11 +511,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=To%20lead%20an%20orchestra%2C%20you%20must%20turn%20your%20back%20on%20the%20crowd.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Success%20is%20nothing%20more%20than%20a%20few%20simple%20disciplines%20practiced%20every%20day.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
