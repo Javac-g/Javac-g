@@ -513,11 +513,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Values%20are%20like%20fingerprints.%20Nobody's%20are%20the%20same%2C%20but%20you%20leave%20'em%20all%20over%20everything%20you%20do.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Happiness%20comes%20when%20you%20believe%20in%20what%20you%20are%20doing%2C%20know%20what%20you%20are%20doing%2C%20and%20love%20what%20you%20are%20doing.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
