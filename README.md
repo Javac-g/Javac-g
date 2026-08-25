@@ -514,11 +514,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Happiness%20comes%20when%20you%20believe%20in%20what%20you%20are%20doing%2C%20know%20what%20you%20are%20doing%2C%20and%20love%20what%20you%20are%20doing.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Many%20answers%20to%20what%20you%20seek%20don't%20lie%20'out%20there'.%20If%20you%20look%20inwards%2C%20you'll%20find%20the%20answer%20has%20been%20in%20you%20all%20along.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
