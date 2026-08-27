@@ -516,11 +516,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=By%20the%20practice%20of%20meditation%2C%20you%20will%20find%20that%20you%20are%20carrying%20within%20your%20heart%20a%20portable%20paradise.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Knowing%20yourself%20is%20the%20beginning%20of%20all%20wisdom.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
