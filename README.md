@@ -518,11 +518,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=David%20Brinkley&quote=A%20successful%20man%20is%20one%20who%20can%20lay%20a%20firm%20foundation%20with%20the%20bricks%20others%20have%20thrown%20at%20him.%20%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=Your%20conscience%20is%20the%20measure%20of%20the%20honesty%20of%20your%20selfishness.%20Listen%20to%20it%20carefully.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
