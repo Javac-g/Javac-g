@@ -520,11 +520,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Words%20are%20the%20clothing%20of%20our%20thoughts.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Don't%20bother%20people%20for%20help%20without%20first%20trying%20to%20solve%20the%20problem%20yourself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
