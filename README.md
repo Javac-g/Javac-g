@@ -523,11 +523,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=The%20thing%20about%20smart%20people%20is%20that%20they%20seem%20like%20crazy%20people%20to%20dumb%20people.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Keep%20your%20eyes%20on%20the%20stars%2C%20but%20remember%20to%20keep%20your%20feet%20on%20the%20ground.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
