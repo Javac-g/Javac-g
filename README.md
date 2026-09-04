@@ -524,11 +524,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Keep%20your%20eyes%20on%20the%20stars%2C%20but%20remember%20to%20keep%20your%20feet%20on%20the%20ground.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=If%20you're%20afraid%20to%20die%2C%20you're%20afraid%20to%20live.%20You%20can't%20have%20one%20without%20the%20other.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
