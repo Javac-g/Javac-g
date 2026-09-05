@@ -525,11 +525,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rita%20Mae%20Brown&quote=If%20you're%20afraid%20to%20die%2C%20you're%20afraid%20to%20live.%20You%20can't%20have%20one%20without%20the%20other.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=You%20purchase%20pain%20with%20all%20that%20joy%20can%20give%20and%20die%20of%20nothing%20but%20a%20rage%20to%20live.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
