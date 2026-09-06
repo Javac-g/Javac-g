@@ -526,11 +526,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=You%20purchase%20pain%20with%20all%20that%20joy%20can%20give%20and%20die%20of%20nothing%20but%20a%20rage%20to%20live.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Nothing%20is%20particularly%20hard%20if%20you%20divide%20it%20into%20small%20jobs.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
