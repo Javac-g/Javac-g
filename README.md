@@ -529,11 +529,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=Luck%20is%20a%20matter%20of%20preparation%20meeting%20opportunity.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Meanings%20are%20not%20determined%20by%20situations%2C%20but%20we%20determine%20ourselves%20by%20the%20meanings%20we%20give%20to%20situations.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
