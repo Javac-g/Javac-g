@@ -530,11 +530,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Meanings%20are%20not%20determined%20by%20situations%2C%20but%20we%20determine%20ourselves%20by%20the%20meanings%20we%20give%20to%20situations.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=He%20that%20can%20have%20patience%20can%20have%20what%20he%20will.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
