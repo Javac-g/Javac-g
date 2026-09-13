@@ -533,11 +533,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Never%20give%20up%20work.%20Work%20gives%20you%20meaning%20and%20purpose%20and%20life%20is%20empty%20without%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Instead%20of%20worrying%20about%20what%20you%20cannot%20control%2C%20shift%20your%20energy%20to%20what%20you%20can%20create.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
