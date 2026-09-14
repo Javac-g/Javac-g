@@ -534,11 +534,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Instead%20of%20worrying%20about%20what%20you%20cannot%20control%2C%20shift%20your%20energy%20to%20what%20you%20can%20create.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=I%20believe%20that%20one%20of%20life's%20greatest%20risks%20is%20never%20daring%20to%20risk.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
