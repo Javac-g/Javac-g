@@ -535,11 +535,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=I%20believe%20that%20one%20of%20life's%20greatest%20risks%20is%20never%20daring%20to%20risk.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Treat%20everyone%20with%20politeness%20and%20kindness%2C%20not%20because%20they%20are%20nice%2C%20but%20because%20you%20are.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
