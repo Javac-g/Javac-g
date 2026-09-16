@@ -536,11 +536,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Treat%20everyone%20with%20politeness%20and%20kindness%2C%20not%20because%20they%20are%20nice%2C%20but%20because%20you%20are.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=The%20more%20we%20value%20things%2C%20the%20less%20we%20value%20ourselves.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
