@@ -538,11 +538,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Know%20your%20gifts%20and%20share%20them.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kabir&quote=If%20you%20don't%20break%20your%20ropes%20while%20you're%20alive%2C%20do%20you%20think%20ghosts%20will%20do%20it%20after%3F&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
