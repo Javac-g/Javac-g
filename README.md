@@ -542,11 +542,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=A%20minute's%20success%20pays%20the%20failure%20of%20years.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Don't%20change%20your%20mind%20just%20because%20people%20are%20offended%3B%20change%20your%20mind%20if%20you're%20wrong.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
