@@ -548,11 +548,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Those%20who%20attain%20the%20middle%20Dominate%20the%20whole.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Aristotle&quote=Where%20your%20talents%20and%20the%20needs%20of%20the%20world%20cross%2C%20there%20lies%20your%20vocation.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
