@@ -550,11 +550,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=He%20who%20cheats%20the%20earth%20will%20be%20cheated%20by%20the%20earth.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=A%20life%20without%20a%20cause%20is%20a%20life%20without%20effect.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
