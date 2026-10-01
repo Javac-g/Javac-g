@@ -551,11 +551,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=A%20life%20without%20a%20cause%20is%20a%20life%20without%20effect.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ronald%20Reagan&quote=Many%20a%20man%20has%20failed%20because%20he%20had%20his%20wishbone%20where%20his%20backbone%20should%20have%20been.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
