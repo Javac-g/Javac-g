@@ -554,11 +554,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Lack%20of%20direction%2C%20not%20lack%20of%20time%2C%20is%20the%20problem.%20We%20all%20have%20twenty-four%20hour%20days.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carol%20Burnett&quote=No%20one%20ever%20said%20life%20was%20fair.%20Just%20Eventful.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
