@@ -556,11 +556,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=The%20less%20you%20respond%20to%20negative%20people%2C%20the%20more%20positive%20your%20life%20will%20become.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Judge%20a%20man%20by%20his%20questions%20rather%20than%20his%20answers.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
