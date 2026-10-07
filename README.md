@@ -557,11 +557,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Voltaire&quote=Judge%20a%20man%20by%20his%20questions%20rather%20than%20his%20answers.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Your%20heart%20is%20the%20size%20of%20an%20ocean.%20Go%20find%20yourself%20in%20its%20hidden%20depths.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
