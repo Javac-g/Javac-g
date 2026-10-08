@@ -558,11 +558,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Your%20heart%20is%20the%20size%20of%20an%20ocean.%20Go%20find%20yourself%20in%20its%20hidden%20depths.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=One%20machine%20can%20do%20the%20work%20of%20fifty%20ordinary%20men.%20No%20machine%20can%20do%20the%20work%20of%20one%20extraordinary%20man.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
