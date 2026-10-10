@@ -560,11 +560,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Hope%20is%20important%20because%20it%20can%20make%20the%20present%20moment%20less%20difficult%20to%20bear.%20If%20we%20believe%20that%20tomorrow%20will%20be%20better%2C%20we%20can%20bear%20a%20hardship%20today.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=Always%20be%20a%20first-rate%20version%20of%20yourself%2C%20instead%20of%20a%20second-rate%20version%20of%20someone%20else.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
