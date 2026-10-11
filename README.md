@@ -561,11 +561,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Judy%20Garland&quote=Always%20be%20a%20first-rate%20version%20of%20yourself%2C%20instead%20of%20a%20second-rate%20version%20of%20someone%20else.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Science%20can%20flourish%20only%20in%20an%20atmosphere%20of%20free%20speech.%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
