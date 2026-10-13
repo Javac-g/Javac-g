@@ -563,11 +563,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Growth%20is%20in%20a%20series%20of%20mistakes.%20That's%20the%20only%20way%20you%20learn.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Action%20is%20the%20foundational%20key%20to%20all%20success.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
