@@ -564,11 +564,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Action%20is%20the%20foundational%20key%20to%20all%20success.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=If%20I%20love%20myself%20I%20love%20you.%20If%20I%20love%20you%20I%20love%20myself.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
