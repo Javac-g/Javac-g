@@ -566,11 +566,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=What%20lies%20behind%20us%20and%20what%20lies%20before%20us%20are%20tiny%20matters%20compared%20to%20what%20lies%20within%20us.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marilyn%20Monroe&quote=Keep%20smiling%2C%20because%20life%20is%20a%20beautiful%20thing%20and%20there's%20so%20much%20to%20smile%20about.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
