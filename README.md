@@ -568,11 +568,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Conflict%20cannot%20survive%20without%20your%20participation.%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jack%20Butcher&quote=Information%20changes%20your%20mind.%20Action%20changes%20your%20circumstances.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
