@@ -571,11 +571,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20Law%20of%20Concentration%20states%20that%20whatever%20you%20dwell%20upon%20grows.%20The%20more%20you%20think%20about%20something%2C%20the%20more%20it%20becomes%20part%20of%20your%20reality.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=All%20cruelty%20springs%20from%20weakness.%20%20&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
