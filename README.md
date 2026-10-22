@@ -572,11 +572,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=All%20cruelty%20springs%20from%20weakness.%20%20&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=If%20you%20love%20somebody%2C%20let%20them%20go%2C%20for%20if%20they%20return%2C%20they%20were%20always%20yours.%20If%20they%20don't%2C%20they%20never%20were.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
