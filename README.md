@@ -573,11 +573,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=If%20you%20love%20somebody%2C%20let%20them%20go%2C%20for%20if%20they%20return%2C%20they%20were%20always%20yours.%20If%20they%20don't%2C%20they%20never%20were.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Zen%20insists%20that%20the%20whole%20trouble%20is%20just%20our%20failure%20to%20realize%20that%20there%20is%20no%20problem.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
