@@ -574,11 +574,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Zen%20insists%20that%20the%20whole%20trouble%20is%20just%20our%20failure%20to%20realize%20that%20there%20is%20no%20problem.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Always%20turn%20a%20negative%20situation%20into%20a%20positive%20situation.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
