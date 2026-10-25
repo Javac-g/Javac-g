@@ -575,11 +575,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michael%20Jordan&quote=Always%20turn%20a%20negative%20situation%20into%20a%20positive%20situation.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=Happiness%20is%20a%20choice%20and%20a%20skill%20and%20you%20can%20dedicate%20yourself%20to%20learning%20that%20skill%20and%20making%20that%20choice.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
