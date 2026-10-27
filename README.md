@@ -577,11 +577,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Epictetus&quote=Seek%20not%20the%20good%20in%20external%20things%3Bseek%20it%20in%20yourselves.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Making%20your%20mark%20on%20the%20world%20is%20hard.%20If%20it%20were%20easy%2C%20everybody%20would%20do%20it.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
