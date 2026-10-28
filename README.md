@@ -578,11 +578,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=Making%20your%20mark%20on%20the%20world%20is%20hard.%20If%20it%20were%20easy%2C%20everybody%20would%20do%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=The%20human%20mind%20defines%20things%20in%20relation%20to%20one%20another%20-%20without%20light%20the%20notion%20of%20darkness%20would%20be%20unintelligible.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
