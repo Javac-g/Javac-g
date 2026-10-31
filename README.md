@@ -581,11 +581,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=The%20greatest%20doer%20must%20also%20be%20a%20great%20dreamer.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=We're%20responsible%20for%20everything%20that%20happens%20to%20us.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
