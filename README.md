@@ -582,11 +582,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=We're%20responsible%20for%20everything%20that%20happens%20to%20us.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Don't%20gain%20the%20world%20and%20lose%20your%20soul.%20Wisdom%20is%20better%20than%20silver%20and%20gold.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
