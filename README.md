@@ -583,11 +583,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Don't%20gain%20the%20world%20and%20lose%20your%20soul.%20Wisdom%20is%20better%20than%20silver%20and%20gold.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=FEAR%20has%20two%20meanings%3A%20'Forget%20Everything%20And%20Run'%20or%20'Face%20Everything%20And%20Rise.'%20The%20choice%20is%20yours.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
