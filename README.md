@@ -584,11 +584,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=FEAR%20has%20two%20meanings%3A%20'Forget%20Everything%20And%20Run'%20or%20'Face%20Everything%20And%20Rise.'%20The%20choice%20is%20yours.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20greatest%20test%20of%20courage%20on%20earth%20is%20to%20bear%20defeat%20without%20losing%20heart.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
