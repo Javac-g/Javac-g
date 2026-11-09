@@ -590,11 +590,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepam%20Chaterjee&quote=What%20have%20you%20done%20today%20to%20make%20someone%20else%20happy%3F&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Where%20violence%20reigns%2C%20reason%20is%20weak.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
