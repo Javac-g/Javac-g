@@ -591,11 +591,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Where%20violence%20reigns%2C%20reason%20is%20weak.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Kindness%20is%20a%20language%20which%20the%20deaf%20can%20hear%20and%20the%20blind%20can%20see.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
