@@ -592,11 +592,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Kindness%20is%20a%20language%20which%20the%20deaf%20can%20hear%20and%20the%20blind%20can%20see.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20be%20fully%20alive%2C%20fully%20human%2C%20and%20completely%20awake%20is%20to%20be%20continually%20thrown%20out%20of%20the%20nest.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
