@@ -593,11 +593,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=To%20be%20fully%20alive%2C%20fully%20human%2C%20and%20completely%20awake%20is%20to%20be%20continually%20thrown%20out%20of%20the%20nest.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=You're%20braver%20than%20you%20believe%2C%20and%20stronger%20than%20you%20seem%2C%20and%20smarter%20than%20you%20think.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
