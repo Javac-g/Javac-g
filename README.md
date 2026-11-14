@@ -595,11 +595,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Life%20is%20a%20gift.%20Never%20forget%20to%20enjoy%20and%20bask%20in%20every%20moment%20you%20are%20in.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=If%20you%20don't%20read%20the%20newspaper%2C%20you're%20uninformed.%20If%20you%20read%20the%20newspaper%2C%20you're%20misinformed.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
