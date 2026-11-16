@@ -597,11 +597,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Why%20do%20you%20stay%20in%20prison%20when%20the%20door%20is%20so%20wide%20open%3F&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=The%20score%20never%20interested%20me%2C%20only%20the%20game.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
