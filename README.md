@@ -600,11 +600,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Never%20spend%20your%20money%20before%20you%20have%20earned%20it.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20quicker%20you%20let%20go%20of%20old%20cheese%2C%20the%20sooner%20you%20find%20new%20cheese.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
