@@ -601,11 +601,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Spencer%20Johnson&quote=The%20quicker%20you%20let%20go%20of%20old%20cheese%2C%20the%20sooner%20you%20find%20new%20cheese.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Let%20the%20beauty%20of%20what%20you%20love%20be%20what%20you%20do.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
