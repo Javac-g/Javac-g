@@ -602,11 +602,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rumi&quote=Let%20the%20beauty%20of%20what%20you%20love%20be%20what%20you%20do.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=Anything%20worth%20doing%20is%20worth%20doing%20slowly.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
