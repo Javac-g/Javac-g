@@ -606,11 +606,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=It's%20wise%20to%20tell%20the%20truth.%20It's%20even%20wiser%20to%20tell%20it%20kindly.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=As%20you%20think%2C%20you%20travel%2C%20and%20as%20you%20love%2C%20you%20attract.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
