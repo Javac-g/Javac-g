@@ -607,11 +607,13 @@ Let's build something great.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=As%20you%20think%2C%20you%20travel%2C%20and%20as%20you%20love%2C%20you%20attract.&theme=ocean_dark">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Life%20is%20much%20like%20going%20to%20the%20gym.%20The%20most%20painful%20part%20is%20deciding%20to%20go.%20Once%20you%20get%20past%20that%2C%20it's%20easy.&theme=ocean_dark">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
